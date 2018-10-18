@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv-guide>
+  <tv-guide-title>The vize1500 TV-guide</tv-guide-title>
+  <tv-guide-creator>Viktor Zetterström</tv-guide-creator>
+  <channel>
+    <programme>
+      <title>Au pair i Kanada</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Landet runt</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Morgonstudion</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Landet runt</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Bete och krok</title>
+      <category>movie</category>
+    </programme>
+    <programme>
+      <title>Sverige!</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Våga snacka</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Sportspegeln</title>
+      <category>sports</category>
+    </programme>
+    <programme>
+      <title>Duellen</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Svenska nyheter</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Robins</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Salongen - tävlingsprogrammet</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Allt för Sverige</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Bara en kypare</title>
+      <category>movie</category>
+    </programme>
+    <programme>
+      <title>Tomas Andersson Wij spelar med...</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Sverige idag</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Rapport</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Kulturnyheterna</title>
+      <category>Culture</category>
+    </programme>
+    <programme>
+      <title>Sportnytt</title>
+      <category>sports</category>
+    </programme>
+    <programme>
+      <title>Lokala nyheter</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Fråga doktorn</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Rapport</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Lokala nyheter</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Vår tid är nu</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Första dejten</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Ord mot ord</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Dilan och Moa</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Rapport</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Grevinnan från Hongkong</title>
+      <category>movie</category>
+    </programme>
+  </channel>
+  <channel>
+    <programme>
+      <title>Sverige idag på romani chib/kalderash</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Sverige idag på meänkieli</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Katjas sverigefinska historia</title>
+      <category/>
+    </programme>
+    <programme>
+      <title>Kortfilmsklubben - spanska</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>El internado</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Forum</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Rapport</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Forum</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>SVT Nyheter</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Rapport</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Gudstjänst</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Byggnadsvårdarna</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Flykten från Anderna</title>
+      <category/>
+    </programme>
+    <programme>
+      <title>Nyheter på lätt svenska</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Nyhetstecken</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Oddasat</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Uutiset</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Engelska Antikrundan</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Svenska dialektmysterier</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Förväxlingen</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Varför slaveri?</title>
+      <category>Documentary</category>
+    </programme>
+    <programme>
+      <title>Aktuellt</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Kulturnyheterna</title>
+      <category>Culture</category>
+    </programme>
+    <programme>
+      <title>Lokala nyheter</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Nyhetssammanfattning</title>
+      <category>tvshow</category>
+    </programme>
+    <programme>
+      <title>Sportnytt</title>
+      <category>sports</category>
+    </programme>
+    <programme>
+      <title>Vad hände sen?</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>När ingen skrattar</title>
+      <category/>
+    </programme>
+    <programme>
+      <title>Agenda</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Jakttid</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Sportnytt</title>
+      <category>sports</category>
+    </programme>
+  </channel>
+  <channel>
+    <programme>
+      <title>UR Samtiden</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Historier från Norge runt</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Språknyheterna</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Spring dig lyckligare</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Den förbjudna floden</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Pompeji - livet före döden</title>
+      <category/>
+    </programme>
+    <programme>
+      <title>Världens natur</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Dofternas universum</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Kärlek från början till slut</title>
+      <category>series</category>
+    </programme>
+    <programme>
+      <title>Renar och norrsken</title>
+      <category/>
+    </programme>
+    <programme>
+      <title>Historiens onda män</title>
+      <category>series</category>
+    </programme>
+  </channel>
+</tv-guide>
