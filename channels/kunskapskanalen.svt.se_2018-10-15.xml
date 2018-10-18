@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20181015140000 +0200" stop="20181015170000 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">UR Samtiden</title>
+    <desc lang="sv">14:00 Barn och deras levnadsvillkor. 14:25 Barns jämlika levnadsvillkor? 14:50 Barns rätt att skyddas från våld. 15:20 Barn, makt och normer. 15:40 Juvenism, unga och nätet. 16:10 Barn som kommer till Sverige och uppges vara gifta. 16:40 Levande fäbodkultur i Schweiz. UR.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2017 . 287/360 .</episode-num>
+    <episode-num system="onscreen">Episode 288 of 360 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015170000 +0200" stop="20181015170500 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Historier från Norge runt</title>
+    <desc lang="sv">Norskt program från 2015. Grisar på vandring. Över 400 frigående grisar har tillbringat sommaren på över tusen meters höjd i Nord-Aurdal. Nu väntar en sju km lång vandring hem till gården.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">7 . 10/20 .</episode-num>
+    <episode-num system="onscreen">Episode 11 of 20 season 8</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015170500 +0200" stop="20181015173500 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Språknyheterna</title>
+    <desc lang="sv">Dagens överklassprat och verbala kränkningar på 1600-talet. Kalle Lind fortsätter sina nedslag i språksverige. Det blir samtal om överklasspråk med Denise Rudberg och om kriminellas språkbruk med före detta rånaren Anders Adali. Vi får också veta det mesta om hur man svor på 1600-talet, och så blir det språkväder förstås. UR. Från 10/10 i K. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2017 . 2/8 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 8 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015173500 +0200" stop="20181015183500 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Spring dig lyckligare</title>
+    <desc lang="sv">Med maraton i sikte. Tio personer kommer för att delta i ett träningsläger. Målet är att springa London Marathon om 20 veckor och att kunna använda löpningen som ett medel för att må psykiskt bättre. Prins William berättar om varför han engagerar sig personligen i kampanjen för mental hälsa. UR. Från 12/10 i K. Även i K 16/10.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2016 . 0/2 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 2 season 2017</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015183500 +0200" stop="20181015192500 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Den förbjudna floden</title>
+    <desc lang="sv">Den svarta draken. På Kinas sida har risfält ersatt stora delar av de ursprungliga våtmarkerna längs Amurfloden. På den ryska breder flodslätterna ännu ut sig med ett enastående djurliv. Uttrar och kärrsköldpaddor söker föda vid sidan av örnar och hägrar. Från 12/10 i K. Textat sid. 199.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0 . 1/3 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 3 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015192500 +0200" stop="20181015210000 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Pompeji - livet före döden</title>
+    <desc lang="sv">Hur såg livet ut i antikens Pompeji innan vulkanutbrottet? Vilka var människorna som levde i staden, och varför stannade runt 1600 personer kvar efter att vulkanen haft sitt utbrott trots att största delen av stadens befolkning redan hade flytt? Dokumentär. UR. Från 2017. Även i K 17/10, K 19/10 och K 21/10.</desc>
+    <date>2015</date>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015210000 +0200" stop="20181015220000 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Världens natur</title>
+    <desc lang="sv">Brittisk naturserie från 2016. Regnskog. Alla föräldrar vet att barn älskar att klättra i träd, och alla är nervösa när de små gör sina första försök. Även en liten spindelapa måste en gång debutera som trädklättrare. Och då sker det trettio meter över marken. Från 14/10 i SVT2. Även i K 18/10 och SVT2 20/10. Textat sid. 199.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">1 . 2/6 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 6 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015220000 +0200" stop="20181015223000 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Dofternas universum</title>
+    <desc lang="sv">Doften som yrke. Alla har de en sak gemensamt, intresset för dofter. Vi möter en luktforskare och luktkonstnär, en kock och en vinkännare. Vad händer i hjärnan när vi uppfattar en doft, och hur illa luktade egentligen vikingarna? UR. Från 12/10 i K. Även i K 17/10.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2013 . 0/3 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 3 season 2014</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015223000 +0200" stop="20181015230000 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Kärlek från början till slut</title>
+    <desc lang="sv">Kärlek eller giftermål. Wenche och Rolf är i 90-årsåldern och har levt som sambor i drygt 20 år. Det hade varit otänkbart när de var unga. De berättar om sina liv nu och då, bland annat om hur man talade om sex och preventivmedel på 1940-talet. Vi får också lära oss hur adel och kungahus använde äktenskapet och varför man gifte sig i det gamla bondesamhället. UR. Från 12/10 i K. Även i K 16/10.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2016 . 2/4 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 4 season 2017</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015230000 +0200" stop="20181015235500 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Renar och norrsken</title>
+    <desc lang="sv">Gordon Buchanan är en skotsk naturfotograf som längtar efter att filma norrsken. Han vill också passa på att lära känna en ren. Han reser till norra Finland och får hjälp av en samisk familj som lånar honom en ren med släde. Brittiskt naturprogram från 2017. UR. Från 14/10 i K. Även i K 16/10, K 17/10 och K 20/10.</desc>
+    <date>2017</date>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015235500 +0200" stop="20181016004500 +0200" channel="kunskapskanalen.svt.se">
+    <title lang="sv">Historiens onda män</title>
+    <sub-title lang="sv">Adolf Hitler</sub-title>
+    <desc lang="sv">Adolf Hitler. Nazismens främsta ansikte, och ondskan personifierad. Adolf Hitler lät mörda sex miljoner judar, och var ansvarig för avrättandet av hundratusentals homosexuella, slaver och romer. Den högsta nivån av ondska världen har sett - nazismens rasbiologiska ideologi som sorterade in människor i dem som var värda att leva och dem som skulle utrotas. Men hur blev en elev som hoppade av skolan den mest ondskefulla diktator världen sett? Från 13/10 i K. Även i K 16/10.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0 . 4/10 .</episode-num>
+    <episode-num system="onscreen">Episode 5 of 10 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>

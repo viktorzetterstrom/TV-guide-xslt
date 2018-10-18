@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20181015044500 +0200" stop="20181015051500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Au pair i Kanada</title>
+    <desc lang="sv">Finsk realityserie från 2017. Nya starter och stridigheter. Roni tar konsekvenserna av sitt beslut och träffar en ny värdfamilj. Mona har inga lediga helger och ber om ledigt till Halloween. Sanna har en tinderdejt, men tvekar om hon ska gå. Tre tjejer och en kille har åkt till Vancouver i Kanada för att jobba som au pair. Från SVT1 tidigare i dag. Även i SVT1 16/10 och SVT24 19/10.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3 . 3/9 .</episode-num>
+    <episode-num system="onscreen">Episode 4 of 9 season 4</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015051500 +0200" stop="20181015060000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Landet runt</title>
+    <desc lang="sv">Spännande och intressanta reportage från hela Sverige. Från SVT1 tidigare i dag. Även i SVT1 15/10. Textat sid. 199.</desc>
+    <credits>
+      <presenter>Henrik Kruusval</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Society</category>
+    <episode-num system="xmltv_ns">2017 . 29/40 .</episode-num>
+    <episode-num system="onscreen">Episode 30 of 40 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015060000 +0200" stop="20181015061500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Morgonstudion</title>
+    <desc lang="sv">Dagens viktigaste nyheter och analyser med ständiga uppdateringar. Vi sänder direkt inrikes- och utrikesnyheter inklusive sport, kultur och nöje. Dessutom intervjuer med aktuella gäster. Nyhetssammanfattningar varje hel- och halvtimme med start kl 06.00. Lokala nyheter från kl 07.05. Väder kvart i och kvart över. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Society</category>
+    <episode-num system="xmltv_ns">2017 . 204/261 .</episode-num>
+    <episode-num system="onscreen">Episode 205 of 261 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015091000 +0200" stop="20181015095500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Landet runt</title>
+    <desc lang="sv">Spännande och intressanta reportage från hela Sverige. Från SVT1 tidigare i dag. Även i SVT1 15/10. Textat sid. 199.</desc>
+    <credits>
+      <presenter>Henrik Kruusval</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Society</category>
+    <episode-num system="xmltv_ns">2017 . 29/40 .</episode-num>
+    <episode-num system="onscreen">Episode 30 of 40 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015095500 +0200" stop="20181015100500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Bete och krok</title>
+    <desc lang="sv">Serbisk-schweizisk kortfilm från 2014. Bora och Dragan jobbar tillsammans på en gammal fabrik. På fritiden fiskar de tillsammans. Den nya chefen har ögonen på dem och tycker att arbetet på fabriken behöver effektiviseras.</desc>
+    <credits>
+      <director>Luka Popadic</director>
+      <actor>Bora Tenic</actor>
+      <actor>Dragan Djordjevic</actor>
+      <actor>Jovo Maksic</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">movie</category>
+    <category lang="en">Drama</category>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015100500 +0200" stop="20181015103500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Sverige!</title>
+    <desc lang="sv">Det var slumpen och ett brutet ben som fick henne att bli skådespelare. Denna gång är Tova Magnusson gäst i Sverige! och hon pratar om vändpunkter i livet och om varför en bit gurka inlindad i ost har fått en särskild betydelse för henne. Dessutom handlar det om humorduon som vägrar att lämna Värmland och om författaren som är orolig för vad som händer om vi inte börjar ta landsbygden på allvar. Från 13/10 i SVT1. Även i SVT1 18/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">20 . 7/18 .</episode-num>
+    <episode-num system="onscreen">Episode 8 of 18 season 21</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015103500 +0200" stop="20181015105000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Våga snacka</title>
+    <desc lang="sv">Eshika. Eshika från Bangladesh är 16 år och har bott i Sverige i fem månader. Hon tycker om att göra saker som är svåra. Det passar bra, för här får hon en utmaning som inte är lätt. Hon ska ta en körlektion och måste lära sig svenska ord och begrepp för att klara av det. UR. Från 10/10 i SVT1. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2017 . 1/8 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 8 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015105000 +0200" stop="20181015112000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Sportspegeln</title>
+    <desc lang="sv">Från 14/10 i SVT1. Även i SVT24 senare i kväll. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">sports</category>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">2017 . 40/53 .</episode-num>
+    <episode-num system="onscreen">Episode 41 of 53 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015112000 +0200" stop="20181015122000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Duellen</title>
+    <desc lang="sv">Underhållningsprogram. Vem kommer först till ön - simmaren eller bilfärjan? Hur tar man sig snabbast till ön? Med bilfärjan eller genom att simma? Det blir alltså människa mot maskin i kvällens första duell. Dessutom blir det balett mot breakdance, sms mot skrivmaskin och radiostyrd bil mot en mountainbike. Och hur står sig en fårhund mot tio scouter? Eller tre byggarbetare mot en crossfitsportare? Var med och tävla hemma i soffan med vår DUO-app. Från 13/10 i SVT1. Även i SVT24 17/10. Textat sid. 199.</desc>
+    <credits>
+      <presenter>Carolina Klüft</presenter>
+      <presenter>Micke Leijnegard</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1 . 6/8 .</episode-num>
+    <episode-num system="onscreen">Episode 7 of 8 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015122000 +0200" stop="20181015125000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Svenska nyheter</title>
+    <desc lang="sv">Programledare Jesper Rönndahl bjuder på spaningar om valet och det efterföljande politiska spelet. Satirprogrammet som ska förklara varför saker är som de är, och hur de borde vara, och skämtar om sånt som är politik och sånt som man inte visste var politik. Från 12/10 i SVT1. Även i SVT1 17/10 och SVT1 18/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1 . 7/8 .</episode-num>
+    <episode-num system="onscreen">Episode 8 of 8 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015125000 +0200" stop="20181015132000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Robins</title>
+    <desc lang="sv">Fredrik Hallgren och Karin Laserow gästar. Humortalkshow med Robin Paulsson. Veckans gäster är antikexpert Karin Laserow och skådespelare Fredrik Hallgren. Från 13/10 i SVT1. Även i SVT1 15/10, SVT1 16/10, SVT24 17/10 och SVT1 19/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">14 . 5/8 .</episode-num>
+    <episode-num system="onscreen">Episode 6 of 8 season 15</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015132000 +0200" stop="20181015140500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Salongen - tävlingsprogrammet</title>
+    <desc lang="sv">Under sju veckor öppnar SVT en salong i centrala Göteborg, fylld av färgstarka frisörer och fantastiska kunder. Vid saxarna finns åtta av Sveriges mest ambitiösa och härliga frisörer som tävlar om att stå som ensam slutsegrare i en tävling som handlar om både hantverksskicklighet och kundbemötande. Från 14/10 i SVT1. Även i SVT1 19/10, SVT24 19/10 och SVT1 21/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0 . 3/8 .</episode-num>
+    <episode-num system="onscreen">Episode 4 of 8 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015140500 +0200" stop="20181015150500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Allt för Sverige</title>
+    <desc lang="sv">Amerikanerna kommer till Vimmerby och får upptäcka Astrid Lindgrens sagovärld. De får lära sig varför dessa historier har så stor plats i våra svenska hjärtan. Och så ska de flytta in i Emil i Lönnebergas gård Katthult där de ska leva som familjen i sagan. Några av dem hamnar dessvärre i snickerboa. Anders Lundin lär dem om den mörka historien bakom vårt lördagsgodis. Från 14/10 i SVT1. Även i SVT1 18/10 och SVT1 20/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">7 . 4/8 .</episode-num>
+    <episode-num system="onscreen">Episode 5 of 8 season 8</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015150500 +0200" stop="20181015163000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Bara en kypare</title>
+    <desc lang="sv">Svensk långfilm från 1959. Fabian Bom jobbar som servitör på ett småstadshotell men drömmer i hemlighet om en teaterkarriär. På hotellet arbetar också kallskänkan Anna Olsson som väntar på ett arv från Amerika, och för pengarna planerar hon att starta en egen hotellrörelse. Anna är förälskad i Fabian men han åker istället till Stockholm för att pröva lyckan. Textat sid. 199.</desc>
+    <credits>
+      <director>Alf Kjellin</director>
+      <actor>Nils Poppe</actor>
+      <actor>Marianne Bengtsson</actor>
+      <actor>Git Gay</actor>
+      <actor>Karl-Arne Holmsten</actor>
+      <actor>Adolf Jahr</actor>
+      <actor>Emy Hagman</actor>
+    </credits>
+    <date>1959</date>
+    <category lang="en">movie</category>
+    <category lang="en">Drama</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015163000 +0200" stop="20181015173000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Tomas Andersson Wij spelar med...</title>
+    <desc lang="sv">Svenskt musikprogram från 2016. Veronica Maggio. Veronica Maggio och Tomas Andersson Wij möts i en intim och avskalad spelning. Låtar som Jag kommer och Vi mot världen varvas med personliga samtal om dålig självkänsla, ständiga uppbrott och inspiration. Det blir en exklusiv inblick i vad som format Sveriges nya popdrottning. Från 2016. Även i SVT1 16/10 och SVT24 20/10. Textat sid. 199.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">1 . 1/4 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 4 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015173000 +0200" stop="20181015180000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Sverige idag</title>
+    <desc lang="sv">Nyheter från hela Sverige - direkt från Umeå. Även i SVT1 senare i natt. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 140/220 .</episode-num>
+    <episode-num system="onscreen">Episode 141 of 220 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015180000 +0200" stop="20181015181300 +0200" channel="svt1.svt.se">
+    <title lang="sv">Rapport</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015181300 +0200" stop="20181015182500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Kulturnyheterna</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">Culture</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015182500 +0200" stop="20181015183000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Sportnytt</title>
+    <desc lang="sv">Senaste sportnyheterna från SVT Sport. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">sports</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015183000 +0200" stop="20181015184500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Lokala nyheter</title>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 165/220 .</episode-num>
+    <episode-num system="onscreen">Episode 166 of 220 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015184500 +0200" stop="20181015193000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Fråga doktorn</title>
+    <desc lang="sv">Alkoholism, hepatit C och till slut en transplanterad lever. TV-kocken Alexander Nilsson levde ett destruktivt liv innan han landade i fjällvärlden. Ikväll sitter han i Fråga doktorns soffa och berättar. Hur går en blodgivning till och vad händer med blodet på vägen från kropp till laboratorium? Ikväll börjar vi vår serie om olika behandlingar och hur de går till inom vården. Doktor Gunilla Hasselgren svarar på tittarnas frågor om hälsa och programledare är Suzanne Axell. HD. Även i SVT1 senare i natt, SVT1 16/10 och SVT1 19/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Magazine</category>
+    <episode-num system="xmltv_ns">21 . 8/18 .</episode-num>
+    <episode-num system="onscreen">Episode 9 of 18 season 22</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015193000 +0200" stop="20181015195500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Rapport</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015195500 +0200" stop="20181015200000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Lokala nyheter</title>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 246/315 .</episode-num>
+    <episode-num system="onscreen">Episode 247 of 315 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015200000 +0200" stop="20181015210000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Vår tid är nu</title>
+    <desc lang="sv">Svensk dramaserie från 2018. Gamla familjer och nya. 1956. Henriette Winter är ny delägare i DK. Peter och Ester försöker komma på ett sätt att bli av med henne. Gustaf tar upp kampen med DK med sin nya restaurang Oscarshof. Nina och Calle söker rätt tillfälle att berätta för Helga att hon ska bli mormor. Köksmästare Backe blir alltmer paranoid, vilket går ut över Calle. Angelo sitter i klorna på Ragnarsson, men får hjälp av fackombudet Maggan. Manus: Malin Nevander &amp; Ulf Kvensler. Sänds med 5.1 ljud. Även i SVT1 16/10, SVT24 16/10, SVT1 17/10, SVT1 18/10, SVT24 18/10, SVT1 20/10 och SVT24 20/10. Textat sid. 199.</desc>
+    <credits>
+      <director>Anna Zackrisson</director>
+      <actor>Suzanne Reuter</actor>
+      <actor>Peter Dalle</actor>
+      <actor>Adam Lundgren</actor>
+      <actor>Hedda Stiernstedt</actor>
+      <actor>Mattias Nordkvist</actor>
+      <actor>Charlie Gustafsson</actor>
+      <actor>Josefin Neldén</actor>
+      <actor>Ida Engvoll</actor>
+      <actor>Rasmus Troedsson</actor>
+      <actor>Sofie Gråbøl</actor>
+      <actor>Tova Magnusson</actor>
+      <actor>Simone Coppo</actor>
+      <actor>Ingela Olsson</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">1 . 2/10 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 10 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+  </programme>
+  <programme start="20181015210000 +0200" stop="20181015220000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Första dejten</title>
+    <desc lang="sv">Svensk realityserie från 2018. Spelar storleken någon roll? Kärlek sägs vara nyckeln till lycka. Men hur hittar man den? Följ med och var flugan på väggen när kärlekslängtande par går på dejt för första gången. Allt sker på restaurang med hängiven personal och dolda kameror. Spelar storleken någon roll? Hur dejtar man igen efter att ha blivit änkling? Kan man bli tagen på allvar om man är en som gillar att spexa? Och kan man vara för social? HD. Även i SVT1 16/10, SVT24 16/10, SVT1 19/10, SVT24 19/10 och SVT24 21/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 0/8 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 8 season 2</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015220000 +0200" stop="20181015225000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Ord mot ord</title>
+    <sub-title lang="sv">Dejten</sub-title>
+    <desc lang="sv">Brittisk thrillerserie från 2017. Dejten. Den nyseparerade läraren Laura Nielson går på en dejt med en av sina elevers pappa. Dagen efter anklagar Laura honom för våldtäkt. Frågan är vad som egentligen har hänt under kvällen. HD. Även i SVT1 17/10 och SVT24 20/10.</desc>
+    <credits>
+      <actor>Ioan Gruffudd</actor>
+      <actor>Jamie Flatters</actor>
+      <actor>Joanne Froggatt</actor>
+      <actor>Shelley Conn</actor>
+      <actor>Warren Brown</actor>
+      <actor>Zoe Tapper</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">0 . 0/6 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 6 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015225000 +0200" stop="20181015231000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Dilan och Moa</title>
+    <desc lang="sv">Samlevnad. Vännerna, de allierade Dilan och Moa, bor tillsammans med den arbetslösa konstnären Paola i en stad som heter Malmö och som är misstänkt lik riktiga Malmö. I avsnitt ett är temat konsekvenserna av att ha sex och konsekvenserna av frånvaron av sex. Dilan söker stöd för ofrivillig sexlöshet i kyrkan där hon jobbar som vaktmästare och Moa söker stöd för sin graviditet i kvinnokroppen själv samt i olika chattforum. Inget av det är så värst smart. Men! Det är det första rafflande avsnittet av Dilan och Moa. HD. Även i SVT1 17/10 och SVT24 21/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0 . 0/6 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 6 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015231000 +0200" stop="20181015231500 +0200" channel="svt1.svt.se">
+    <title lang="sv">Rapport</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015231500 +0200" stop="20181016010000 +0200" channel="svt1.svt.se">
+    <title lang="sv">Grevinnan från Hongkong</title>
+    <desc lang="sv">Brittisk långfilm från 1967. Charlie Chaplins romantiska komedi om den ryska grevinnan Natascha, som lever ett utsatt liv i exil i Hongkong. När hon möter den förmögne amerikanen Ogden så passar hon på att smita ombord på lyxkryssaren som ska ta honom tillbaka till USA. Natascha lyckas övertyga Ogden om att få gömma sig i hans hytt under överfarten, och snart uppstår en attraktion dem emellan.</desc>
+    <credits>
+      <director>Charlie Chaplin</director>
+      <actor>Marlon Brando</actor>
+      <actor>Sophia Loren</actor>
+      <actor>Sydney Chaplin</actor>
+      <actor>Tippi Hedren</actor>
+      <actor>Patrick Cargill</actor>
+    </credits>
+    <date>1967</date>
+    <category lang="en">movie</category>
+    <category lang="en">Drama</category>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>

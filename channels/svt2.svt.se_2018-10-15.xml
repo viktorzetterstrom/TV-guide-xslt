@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20181015074000 +0200" stop="20181015075000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Sverige idag på romani chib/kalderash</title>
+    <desc lang="sv">Veckans lokala nyheter på romani chib kalderash. Från 14/10 i SVT2.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 27/40 .</episode-num>
+    <episode-num system="onscreen">Episode 28 of 40 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015075000 +0200" stop="20181015080000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Sverige idag på meänkieli</title>
+    <desc lang="sv">Veckans lokala nyheter på meänkieli. Från 14/10 i SVT2.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 27/40 .</episode-num>
+    <episode-num system="onscreen">Episode 28 of 40 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015080000 +0200" stop="20181015081600 +0200" channel="svt2.svt.se">
+    <title lang="sv">Katjas sverigefinska historia</title>
+    <desc lang="sv">Sverige har fem nationella minoriteter. Sverigefinnarna är en av dem. Katja tar reda på mer om sin familjs historia och om vilka sverigefinnarna är. UR. Från 20/9 i Barnkanalen. Textat sid. 199.</desc>
+    <date>2018</date>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015081600 +0200" stop="20181015082500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Kortfilmsklubben - spanska</title>
+    <desc lang="sv">16 semanas. Spansk kortfilm. Vanessa är som klippt och skuren för jobbet, men för att verkligen få det känner hon sig tvungen att dölja vissa saker. UR. Från 14/10 i SVT2. Textat sid. 199.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2008 . 52/55 .</episode-num>
+    <episode-num system="onscreen">Episode 53 of 55 season 2009</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015082500 +0200" stop="20181015090000 +0200" channel="svt2.svt.se">
+    <title lang="sv">El internado</title>
+    <desc lang="sv">Comienzo de semestre. Seriestart. Vid terminsstarten måste syskonen Marcos och Paula börja på en internatskola eftersom deras föräldrar har försvunnit. Skolan La Laguna Negra ligger långt ute i skogen. Samtidigt rymmer en ung kvinna från en psykiatrisk klinik och söker jobb som städerska på internatskolan. UR. Från 14/10 i SVT2.</desc>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2006 . 0/12 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 12 season 2007</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015090000 +0200" stop="20181015120000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Forum</title>
+    <desc lang="sv">09:00: Åtgärder för en effektivare polisorganisation. Det har gått tre år sedan de 21 polismyndigheterna och Rikspolisstyrelsen slogs ihop och bildade en myndighet. I en färsk rapport utvärderas omorganisationen och förslag till förbättringar presenteras. Arrangör: SNS. Från 8/10. 10:15: Så attraherar, engagerar och leder vi framtidens talanger. Om yngre generationers drömmar, krav och förebilder. Med Sofia Rasmussen, Rasmussen Analys. Utdrag från Pensionsdagen 4/10. Arrangör: SPV, Statens tjänstepensionsverk. 11:00: Politik i bokhyllan: Klanen. En antologi om individ, klan och samhälle, från antikens Grekland till dagen Sverige. Bokens två redaktörer, Johan Lundberg och Per Brinkemo, intervjuas av Nedjma Chaouche. Från 8 /10. 11:15: Vilka ska hängas ut? Ett samtal om etik, granskning och förtroende ett år efter metoo.</desc>
+    <credits>
+      <actor>Ola Sigvardsson</actor>
+      <actor>Allmänhetens Pressombudsman PO</actor>
+      <actor>Jonas Nordling</actor>
+      <actor>ordförande Journalistförbundet</actor>
+      <actor>Lina Makboul</actor>
+      <actor>reporter SVT</actor>
+      <actor>läs mer: svt.se</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2017 . 160/215 .</episode-num>
+    <episode-num system="onscreen">Episode 161 of 215 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015120000 +0200" stop="20181015120300 +0200" channel="svt2.svt.se">
+    <title lang="sv">Rapport</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015120300 +0200" stop="20181015160000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Forum</title>
+    <desc lang="sv">12:03: Överlever demokratin utan journalistik? Samtal om hur vårt demokratiska samhälle ska hantera att politiken engagerar allt färre och att medborgarna inte längre delar samma kunskap. Arrangör: Hanaholmen och Göteborgs universitet. Från 27/9. 12:20: Poddarnas kamp - när alla rider på ljudvågen. 2018 är året då podden står i fokus, men har vi kanske redan passerat peak podd? 75 minuter om hur de traditionella och nya aktörerna tar sig an det talade ordet. Arrangör: Meg, Mediedagarna i Göteborg. Från 27/9. 13:30: Lönebildning i en ny tid - DIREKT. Industrin sätter det så kallade märket i avtalsrörelsen. Krävs det en delvis ny modell för att lättare rekrytera personal till kvinnodominerade verksamheterläs mer: svt.se.</desc>
+    <credits>
+      <actor>Markus Gustafsson</actor>
+      <actor>Omni</actor>
+      <actor>Thomas Mattsson</actor>
+      <actor>Expressen</actor>
+      <actor>Karin Lindblom</actor>
+      <actor>Sveriges Radio</actor>
+      <actor>Jonas Tellander Storytel</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">2017 . 160/215 .</episode-num>
+    <episode-num system="onscreen">Episode 161 of 215 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015160000 +0200" stop="20181015161000 +0200" channel="svt2.svt.se">
+    <title lang="sv">SVT Nyheter</title>
+    <desc lang="sv">Stefan Löven håller pressträff.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 491/600 .</episode-num>
+    <episode-num system="onscreen">Episode 492 of 600 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015161000 +0200" stop="20181015161500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Rapport</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015161500 +0200" stop="20181015170000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Gudstjänst</title>
+    <desc lang="sv">Dagens gudstjänst kommer från Botkyrka kyrka i Stockholm. Prästen Ingemar Sörqvist predikar och barnkörer från Botkyrka församling sjunger under ledning av Camilla Helander, Gunnar Gillfors och Tobias Helldin. Från 14/10 i SVT2. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Culture</category>
+    <episode-num system="xmltv_ns">2017 . 39/63 .</episode-num>
+    <episode-num system="onscreen">Episode 40 of 63 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015170000 +0200" stop="20181015171000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Byggnadsvårdarna</title>
+    <desc lang="sv">Linolja. Linolja. Reportageserie från Go'kväll. Från Svenska Byggnadsvårdsföreningens sommarläger där man lär sig att ta hand om gamla byggnader och lär sig om traditionella hantverk. Textat sid. 199.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0 . 2/5 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 5 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>dolby digital</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015171000 +0200" stop="20181015171500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Flykten från Anderna</title>
+    <desc lang="sv">Följ med Radiohjälpen på en episkt vacker resa till Peru, högt upp i Anderna, där alpackabönder och många andra tvingas bli klimatflyktingar på grund av dramatiska klimatförändringar. Textat sid. 199.</desc>
+    <date>2012</date>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015171500 +0200" stop="20181015172000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Nyheter på lätt svenska</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 170/220 .</episode-num>
+    <episode-num system="onscreen">Episode 171 of 220 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015172000 +0200" stop="20181015173000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Nyhetstecken</title>
+    <desc lang="sv">Nyheter på teckenspråk. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015173000 +0200" stop="20181015174500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Oddasat</title>
+    <desc lang="sv">Samiskspråkiga nyheter.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015174500 +0200" stop="20181015180000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Uutiset</title>
+    <desc lang="sv">Finskspråkiga nyheter.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015180000 +0200" stop="20181015190000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Engelska Antikrundan</title>
+    <desc lang="sv">Wentworth Woodhouse 2. Fiona Bruce och experterna återvänder till South Yorkshire där besökarnas familjegods fortsätter att fascinera. Vad sägs om en medalj för särskilt visad vänlighet mot ponnyer, en värdefull tebricka och en bibel som tillhört den första svarta professionella fotbollsspelaren. Programledaren Fiona Bruce och antikexperterna åker runt Storbritannien på jakt efter gömda skatter i det populära faktaprogrammet som har fängslat den engelska publiken i mer än 30 år. HD. Även i SVT2 16/10.</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">35 . 25/26 .</episode-num>
+    <episode-num system="onscreen">Episode 26 of 26 season 36</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015190000 +0200" stop="20181015193000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Svenska dialektmysterier</title>
+    <sub-title lang="sv">Bohuslän</sub-title>
+    <desc lang="sv">Bohuslän. Fredrik besöker Smögen och konstaterar att stockholmsstekare och bohuslänska fiskare använder exakt samma språkljud. Men varför upplevs det ena som fint och det andra som bonnigt? Från 2012. Även i SVT2 16/10, SVT24 17/10, SVT2 20/10 och SVT2 21/10. Textat sid. 199.</desc>
+    <credits>
+      <actor role="Himself">Fredrik Lindström</actor>
+      <presenter>Fredrik Lindström</presenter>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=80919&amp;seasonid=485902&amp;id=4285997&amp;lid=8</url>
+    <episode-num system="xmltv_ns">1 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 2</episode-num>
+    <episode-num system="thetvdb.com">series/80919</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015193000 +0200" stop="20181015200000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Förväxlingen</title>
+    <desc lang="sv">Turkisk dramaserie från 2016. Vi får följa hur ödets vindar förändrar livet för de två familjerna Gulpinar och Gurpinar, vars döttrar förväxlades på BB. HD. Även i SVT2 20/10.</desc>
+    <credits>
+      <actor>Nurgül Yesilçay</actor>
+      <actor>Erkan Petekkaya</actor>
+      <actor>Ebru Özkan</actor>
+      <actor>Alina Boz</actor>
+      <actor>Leyla Tanlar</actor>
+      <actor>Barış Falay med flera</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">2 . 36/146 .</episode-num>
+    <episode-num system="onscreen">Episode 37 of 146 season 3</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015200000 +0200" stop="20181015210000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Varför slaveri?</title>
+    <desc lang="sv">Indisk dokumentär från 2018. Indien är en av världens snabbast växande ekonomier. Men priset på barn är lågt. Över hela landet säljs de allra fattigaste som arbetskraft till fabriker och medelklasshem. Hur är det möjligt? Pankaj Johar gör en resa på den mörka sidan av sitt hemland. Varför slaveri? är en internationell kraftsamling med målet att få igång en global diskussion om vår tids slaveri. HD. Även i SVT2 17/10 och SVT2 20/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">Documentary</category>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015210000 +0200" stop="20181015213900 +0200" channel="svt2.svt.se">
+    <title lang="sv">Aktuellt</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015213900 +0200" stop="20181015214600 +0200" channel="svt2.svt.se">
+    <title lang="sv">Kulturnyheterna</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">Culture</category>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015214600 +0200" stop="20181015215500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Lokala nyheter</title>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 132/180 .</episode-num>
+    <episode-num system="onscreen">Episode 133 of 180 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015215500 +0200" stop="20181015220000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Nyhetssammanfattning</title>
+    <desc lang="sv">Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">tvshow</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">2017 . 132/180 .</episode-num>
+    <episode-num system="onscreen">Episode 133 of 180 season 2018</episode-num>
+    <video>
+      <aspect>4:3</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015220000 +0200" stop="20181015222000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Sportnytt</title>
+    <desc lang="sv">Senaste sportnyheterna från SVT Sport. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">sports</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015222000 +0200" stop="20181015225000 +0200" channel="svt2.svt.se">
+    <title lang="sv">Vad hände sen?</title>
+    <desc lang="sv">Program på teckenspråk. Patrick Forss. Vi möter medverkande som varit med i tidigare program, vad gör de idag? Reportern Helena Bergström söker upp och samtalar med tv-profilen och skådespelaren Patrick Forss. HD. Även i SVT2 17/10, SVT24 18/10 och SVT2 20/10. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Biography</category>
+    <episode-num system="xmltv_ns">0 . 1/5 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 5 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181015225000 +0200" stop="20181016002000 +0200" channel="svt2.svt.se">
+    <title lang="sv">När ingen skrattar</title>
+    <desc lang="sv">Några av dagens mest framgångsrika komiker delar med sig av standup-komedins premisser: drivkraften, den kreativa processen och psykologin inför en live-föreställning. Hur känns det att bli utbuad eller när ingen skrattar? Amerikansk dokumentär från 2016. UR. Från 21/2 i K. Även i SVT2 21/10.</desc>
+    <date>2016</date>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181016002000 +0200" stop="20181016010500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Agenda</title>
+    <desc lang="sv">Moderatledaren Ulf Kristerssons ultimatum till allianskollegorna. Om de inte vill vara med är han beredd att bilda regering själv. Analys och kommentar i Agenda. Följ med till Skåne, Sveriges Bayern, där moderaterna är både starkare och mer konservativa än på riksplanet. Hör utrikeskorrespondenterna Christian Stichler från Tyskland och Hanne Fokdal Barnekow från Danmark om den svenska regeringsbildningen. Flera misstänkta ryska spionoperationer har blivit avslöjade och exponerade. Ser vi en ny strategi från Europa och USA? Intervju med Alina Polyakova, amerikansk expert på rysk utrikespolitik och desinformation. Från 14/10 i SVT2. Även i SVT2 16/10. Textat sid. 199.</desc>
+    <credits>
+      <presenter>Anders Holmberg</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Politics</category>
+    <category lang="en">Society</category>
+    <episode-num system="xmltv_ns">2017 . 7/18 .</episode-num>
+    <episode-num system="onscreen">Episode 8 of 18 season 2018</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181016010500 +0200" stop="20181016013500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Jakttid</title>
+    <desc lang="sv">Programserie om jakt och fiske. Lära sig av mästaren. Sanna och Antti jagar ripa och Aki njuter av fiskrika forsar. Riikka har fått glädjen och äran att gå på fisketur med en finsk mästare i flugfiske, medan Tuomo och Ari måste spåra en skadad björn. Medverkande i serien är Aki Huhtanen, Riikka Aaltonen, Sanna och Antti Kokko, samt Tuomo och Ari Turunen. Från 11/10 i SVT2. Även i SVT24 16/10.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <episode-num system="xmltv_ns">0 . 2/12 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 12 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+  <programme start="20181016014500 +0200" stop="20181016020500 +0200" channel="svt2.svt.se">
+    <title lang="sv">Sportnytt</title>
+    <desc lang="sv">Senaste sportnyheterna från SVT Sport. Textat sid. 199.</desc>
+    <date>2018</date>
+    <category lang="en">sports</category>
+    <category lang="en">News</category>
+    <video>
+      <aspect>16:9</aspect>
+      <quality>HDTV</quality>
+    </video>
+    <audio>
+      <stereo>stereo</stereo>
+    </audio>
+  </programme>
+</tv>
