@@ -70,7 +70,13 @@
     <xsl:template match="tv">
         <!-- Copy all programmes -->
         <xsl:for-each select="//programme">
-            <xsl:copy-of select="." />
+            <programme>
+                <xsl:copy-of select="title" />
+                <xsl:copy-of select="desc" />
+                <xsl:copy-of select="date" />
+                <xsl:copy-of select="category" />
+                <xsl:copy-of select="episode-num[@system='onscreen']" />
+            </programme>
         </xsl:for-each>
     </xsl:template>
 

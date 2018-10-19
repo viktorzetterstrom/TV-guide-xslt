@@ -1,0 +1,50 @@
+#main-container {
+    width: 60em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    text-align:center
+}
+
+#pdf-button {
+    height: 40px;
+    width: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 5px;
+}
+
+#channels{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+
+.channel {
+    width:300px;
+    height:800px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: lightgray;
+}
+
+/* Background gradient fetched from https://uigradients.com/#KokoCaramel */
+body {
+    font-family: arial;
+    background: #D1913C;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFD194, #D1913C);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFD194, #D1913C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+ul {
+    margin: 0;
+    padding-left: 6px;
+}
+
+li {
+    list-style-type: none;
+}
