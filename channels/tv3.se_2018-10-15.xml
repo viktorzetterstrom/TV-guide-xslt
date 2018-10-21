@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20181015031000 +0200" stop="20181015033000 +0200" channel="tv3.se">
+    <title lang="sv">Alex, Inc.</title>
+    <desc lang="sv">Medan Alex försöker visa för Eddie vem det är som bestämmer, leder Rooni en skolutflykt som slutar katastrofalt.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0 . 2 .</episode-num>
+    <episode-num system="onscreen">Episode 3 season 1</episode-num>
+  </programme>
+  <programme start="20181015033000 +0200" stop="20181015035500 +0200" channel="tv3.se">
+    <title lang="sv">Alex, Inc.</title>
+    <desc lang="sv">Samtidigt som han kämpar med att komma på ett namn för sitt nya företag, måste Alex stå ut med ett oväntat besök från Roonis dömande mamma Joya.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">0 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 1</episode-num>
+  </programme>
+  <programme start="20181015035500 +0200" stop="20181015042000 +0200" channel="tv3.se">
+    <title lang="sv">Alla älskar Raymond</title>
+    <desc lang="sv">Allys hamster dör och Ray har hand om begravingen.</desc>
+    <date>2000</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 5</episode-num>
+  </programme>
+  <programme start="20181015042000 +0200" stop="20181015044500 +0200" channel="tv3.se">
+    <title lang="sv">Alla älskar Raymond</title>
+    <desc lang="sv">Ray är avundsjuk på Robert som blir uppgraderad.</desc>
+    <date>2000</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">4 . 5 .</episode-num>
+    <episode-num system="onscreen">Episode 6 season 5</episode-num>
+  </programme>
+  <programme start="20181015044500 +0200" stop="20181015051000 +0200" channel="tv3.se">
+    <title lang="sv">Pappaliv</title>
+    <desc lang="sv">I Pappalivs andra avsnitt får vi veta mer om våra unga pappors egen uppväxt.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+  </programme>
+  <programme start="20181015051000 +0200" stop="20181015053500 +0200" channel="tv3.se">
+    <title lang="sv">Pappaliv</title>
+    <desc lang="sv">Billy från Örebro tar med sonen Leo till brottarklubben för tjejer som han driver. Andrew lagar mat till Kaylee, och förklarar varför han har ensam vårdnad om den sexåriga dottern.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0 . 2 .</episode-num>
+    <episode-num system="onscreen">Episode 3 season 1</episode-num>
+  </programme>
+  <programme start="20181015053500 +0200" stop="20181015060000 +0200" channel="tv3.se">
+    <title lang="sv">Pappaliv</title>
+    <desc lang="sv">Fyraårige Colin väljer kläder åt pappa Daniel, innan de bjuder en polare och hans dotter på middag. I Angered lämnar Jim Noel till barnvakten och tar en öl med en kompis.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0 . 3 .</episode-num>
+    <episode-num system="onscreen">Episode 4 season 1</episode-num>
+  </programme>
+  <programme start="20181015060000 +0200" stop="20181015063000 +0200" channel="tv3.se">
+    <title lang="sv">Frasier</title>
+    <sub-title lang="sv">The Devil and Dr. Phil</sub-title>
+    <desc lang="sv">Bebe lurar in Frasier på dåliga banor efter att hon avslöjat att hon är agent åt Dr. Phil McGraw.</desc>
+    <credits>
+      <director>Wil Shriner</director>
+      <actor role="Frasier Crane">Kelsey Grammer</actor>
+      <actor role="Niles Crane">David Hyde Pierce</actor>
+      <actor role="Daphne Moon">Jane Leeves</actor>
+      <actor role="Roz Doyle">Peri Gilpin</actor>
+      <actor role="Martin Crane">John Mahoney</actor>
+      <actor role="Bebe Glazer">Harriet Sansom Harris</actor>
+      <actor role="Himself">Phil McGraw</actor>
+      <actor role="Gertrude Moon">Millicent Martin</actor>
+      <actor role="Old Frasier">Jack Axelrod</actor>
+      <actor role="Old Daphne">Jean Sincere</actor>
+      <actor role="Old Niles">John O'Leary</actor>
+      <actor role="Mildred">Lillian Adams</actor>
+      <actor role="Supervisor">Steve Susskind</actor>
+      <writer>Chris Marcil</writer>
+      <writer>Sam Johnson</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/3452/season/10/episode/21</url>
+    <episode-num system="xmltv_ns">9 . 20/24 .</episode-num>
+    <episode-num system="onscreen">Episode 21 of 24 season 10</episode-num>
+  </programme>
+  <programme start="20181015063000 +0200" stop="20181015070000 +0200" channel="tv3.se">
+    <title lang="sv">Frasier</title>
+    <sub-title lang="sv">Analyzed Kiss</sub-title>
+    <desc lang="sv">Julia avslutar sin affär med Frasiers revisor Avery och bryter sig in på hans kontor för att stjäla tillbaka en del av hennes egna arbete.</desc>
+    <credits>
+      <director>Katy Garretson</director>
+      <actor role="Frasier Crane">Kelsey Grammer</actor>
+      <actor role="Niles Crane">David Hyde Pierce</actor>
+      <actor role="Daphne Moon">Jane Leeves</actor>
+      <actor role="Roz Doyle">Peri Gilpin</actor>
+      <actor role="Martin Crane">John Mahoney</actor>
+      <actor role="Kenny Daly">Tom McGowan</actor>
+      <actor role="Gertrude Moon">Millicent Martin</actor>
+      <actor role="Julia Wilcox">Felicity Huffman</actor>
+      <actor role="Woody Wiswell Jr">David Alan Basche</actor>
+      <actor role="Red">Dennis Cockrum</actor>
+      <actor role="Wayne">Dan Gerrity</actor>
+      <actor role="Mitch">Keith Sellon-Wright</actor>
+      <actor role="Guest Caller - Ernie">Bill Paxton</actor>
+    </credits>
+    <date>2003</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/3452/season/10/episode/23</url>
+    <episode-num system="xmltv_ns">9 . 22/24 .</episode-num>
+    <episode-num system="onscreen">Episode 23 of 24 season 10</episode-num>
+  </programme>
+  <programme start="20181015070000 +0200" stop="20181015090000 +0200" channel="tv3.se">
+    <title lang="sv">Aftonbladet Morgon</title>
+    <desc lang="sv">Aftonbladet Morgon är Sveriges rappaste nyhetsprogram som kastar dig direkt in i nyhetsflödet. Med Aftonbladet Morgon hänger du med i det senaste när det gäller nyheter, sport, nöje och viralt.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">News</category>
+    <episode-num system="xmltv_ns">1 . 40 .</episode-num>
+    <episode-num system="onscreen">Episode 41 season 2</episode-num>
+  </programme>
+  <programme start="20181015090000 +0200" stop="20181015100000 +0200" channel="tv3.se">
+    <title lang="sv">Lyxfällan</title>
+    <sub-title lang="sv">Hanna</sub-title>
+    <desc lang="sv">I premiäravsnittet av nya Lyxfällan träffar vi före detta Big Brother-stjärnan Hanna Widerstedt lever lyxliv i Berlin trots en inkomst på kring 3000 kronor i månaden. Hennes shoppingbeteende slår alla rekord.</desc>
+    <credits>
+      <actor>Charlie Söderberg</actor>
+      <actor>Patrick Grimlund</actor>
+      <actor>Frida Boisen</actor>
+      <actor>Mathias Andersson</actor>
+      <actor>Magnus Hedberg</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=81847&amp;seasonid=745783&amp;id=6491892&amp;lid=8</url>
+    <episode-num system="xmltv_ns">23 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 24</episode-num>
+    <episode-num system="thetvdb.com">series/81847</episode-num>
+  </programme>
+  <programme start="20181015100000 +0200" stop="20181015103000 +0200" channel="tv3.se">
+    <title lang="sv">Sex and the City</title>
+    <sub-title lang="sv">No Ifs, Ands, or Butts</sub-title>
+    <desc lang="sv">Vad finns det för dealbreakers i ett förhållande? Carrie överväger att sluta röka när den fula vanan nästan förstör alla chanser hon har med Aidan, en väldigt snygg och passande möbelformgivare.</desc>
+    <credits>
+      <actor role="Carrie Bradshaw">Sarah Jessica Parker</actor>
+      <actor role="Samantha Jones">Kim Cattrall</actor>
+      <actor role="Miranda Hobbes">Cynthia Nixon</actor>
+      <actor role="Charlotte York">Kristin Davis</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/105/season/3/episode/5</url>
+    <episode-num system="xmltv_ns">2 . 4/18 .</episode-num>
+    <episode-num system="onscreen">Episode 5 of 18 season 3</episode-num>
+  </programme>
+  <programme start="20181015103000 +0200" stop="20181015105500 +0200" channel="tv3.se">
+    <title lang="sv">Sex and the City</title>
+    <sub-title lang="sv">Are We Sluts?</sub-title>
+    <desc lang="sv">Är vi slampor? En granne till Samantha blir utsatt för ett väpnat rån och Samantha - och hennes nattgäster - blir utpekade som skyldiga. Miranda får reda på att hon har en könssjukdom och gör en lista över sina sexpartners.</desc>
+    <credits>
+      <actor role="Carrie Bradshaw">Sarah Jessica Parker</actor>
+      <actor role="Samantha Jones">Kim Cattrall</actor>
+      <actor role="Miranda Hobbes">Cynthia Nixon</actor>
+      <actor role="Charlotte York">Kristin Davis</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/105/season/3/episode/6</url>
+    <episode-num system="xmltv_ns">2 . 5/18 .</episode-num>
+    <episode-num system="onscreen">Episode 6 of 18 season 3</episode-num>
+  </programme>
+  <programme start="20181015105500 +0200" stop="20181015115500 +0200" channel="tv3.se">
+    <title lang="sv">Project Runway</title>
+    <desc lang="sv">Deltagaarna återförenas för att reflektera över den gångna säsongen, topparna, bottnarna coh andra minnesvärda stunder från serien.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">13 . 15 .</episode-num>
+    <episode-num system="onscreen">Episode 16 season 14</episode-num>
+  </programme>
+  <programme start="20181015115500 +0200" stop="20181015125500 +0200" channel="tv3.se">
+    <title lang="sv">Svenska Hollywoodfruar</title>
+    <desc lang="sv">Det är dags för Åsa Vesterlund att glänta på dörren till sitt nya lyxhus i Los Angeles. Och hon hoppas att det ska vara krypfritt. Dessutom åker hon hem till Maria Montazami och avslöjar en hemlighet.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">9 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 10</episode-num>
+  </programme>
+  <programme start="20181015125500 +0200" stop="20181015135500 +0200" channel="tv3.se">
+    <title lang="sv">Real Housewives of Beverly Hills</title>
+    <sub-title lang="sv">Big Buddha Brawl</sub-title>
+    <desc lang="sv">Spänningarna mellan Dorit och Erika fortsätter att gunga båten i Hong Kong. Lisa Rinna och Eileen väljer sida medan Lisa Vanderpump och Kyle chockat tittar på.</desc>
+    <credits>
+      <actor role="Herself">Dorit Kemsley</actor>
+      <actor role="Herself">Erika Jayne</actor>
+      <actor role="Herself">Kyle Richards</actor>
+      <actor role="Herself">Lisa Rinna</actor>
+      <actor role="Herself">Lisa Vanderpump</actor>
+      <actor role="Herself">Eden Sassoon</actor>
+      <actor role="Herself">Kim Richards</actor>
+      <actor role="Herself">Brandi Glanville</actor>
+      <actor role="Herself">Eileen Davidson</actor>
+    </credits>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>https://www.themoviedb.org/tv/32390/season/7/episode/16</url>
+    <episode-num system="xmltv_ns">6 . 15/21 .</episode-num>
+    <episode-num system="onscreen">Episode 16 of 21 season 7</episode-num>
+  </programme>
+  <programme start="20181015135500 +0200" stop="20181015142500 +0200" channel="tv3.se">
+    <title lang="sv">Sex and the City</title>
+    <sub-title lang="sv">Drama Queens</sub-title>
+    <desc lang="sv">Behöver man drama för att få ett förhållande att funka? Carrie börjar ifrågasätta sin relation med Aidan, men ett oväntat möte med Mr Big får henne att inse att ju mindre drama, desto bättre.</desc>
+    <credits>
+      <actor role="Carrie Bradshaw">Sarah Jessica Parker</actor>
+      <actor role="Samantha Jones">Kim Cattrall</actor>
+      <actor role="Miranda Hobbes">Cynthia Nixon</actor>
+      <actor role="Charlotte York">Kristin Davis</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/105/season/3/episode/7</url>
+    <episode-num system="xmltv_ns">2 . 6/18 .</episode-num>
+    <episode-num system="onscreen">Episode 7 of 18 season 3</episode-num>
+  </programme>
+  <programme start="20181015142500 +0200" stop="20181015145500 +0200" channel="tv3.se">
+    <title lang="sv">Sex and the City</title>
+    <sub-title lang="sv">The Big Time</sub-title>
+    <desc lang="sv">Hänger allt på tajming? Charlotte tror att nya kärleken Trey kanske är den rätte. Samantha får information om klimakteriet och tror att hon kanske redan har hamnat i det. Steve försöker övertyga Miranda att skaffa barn.</desc>
+    <credits>
+      <actor role="Carrie Bradshaw">Sarah Jessica Parker</actor>
+      <actor role="Samantha Jones">Kim Cattrall</actor>
+      <actor role="Miranda Hobbes">Cynthia Nixon</actor>
+      <actor role="Charlotte York">Kristin Davis</actor>
+    </credits>
+    <date>2000</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/105/season/3/episode/8</url>
+    <episode-num system="xmltv_ns">2 . 7/18 .</episode-num>
+    <episode-num system="onscreen">Episode 8 of 18 season 3</episode-num>
+  </programme>
+  <programme start="20181015145500 +0200" stop="20181015152500 +0200" channel="tv3.se">
+    <title lang="sv">Unga Mammor</title>
+    <desc lang="sv">Nicole gör ett vlogginlägg om hennes bristningar då hon upptäcker att hon har bristningar hela vägen in i rumpan. Milans kalas närmar sig och Julia tar med honom för att handla.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3 . 20 .</episode-num>
+    <episode-num system="onscreen">Episode 21 season 4</episode-num>
+  </programme>
+  <programme start="20181015152500 +0200" stop="20181015155500 +0200" channel="tv3.se">
+    <title lang="sv">Unga Mammor</title>
+    <desc lang="sv">Sophie och Pelle är trötta på vädret i Sverige och drömmer om att flytta till Australien. Linn tar med sig Tindra för att prova på hur det är att vara florist för en dag.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3 . 21 .</episode-num>
+    <episode-num system="onscreen">Episode 22 season 4</episode-num>
+  </programme>
+  <programme start="20181015155500 +0200" stop="20181015170000 +0200" channel="tv3.se">
+    <title lang="sv">Svenska Hollywoodfruar</title>
+    <desc lang="sv">Man kan skära genom den spända spänningen i luften och känslorna sitter på utsidan. Det är dags för den årliga frulunchen och Sofie Prydz vet knappt vad som väntar.</desc>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">9 . 2 .</episode-num>
+    <episode-num system="onscreen">Episode 3 season 10</episode-num>
+  </programme>
+  <programme start="20181015170000 +0200" stop="20181015180000 +0200" channel="tv3.se">
+    <title lang="sv">Lyxfällan</title>
+    <desc lang="sv">Tvåbarnspappan Magnus, 38, älskar att shoppa bilar och prylar - och hans radhus strax utanför Stockholm är proppfyllt av dyra teknikgrejer. Allt är finansierat av lån med skyhöga räntor.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">23 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 24</episode-num>
+  </programme>
+  <programme start="20181015180000 +0200" stop="20181015190000 +0200" channel="tv3.se">
+    <title lang="sv">Real Housewives of Beverly Hills</title>
+    <desc lang="sv">Fortfarande i Hong Kong försvarar Lisa Rinna sina skandalösa anklagelser om Dorit. Damernas hjärtan smälter dock när de besöker hundarna som Lisa Vanderpump har hjälpt till att rädda.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">6 . 16 .</episode-num>
+    <episode-num system="onscreen">Episode 17 season 7</episode-num>
+  </programme>
+  <programme start="20181015190000 +0200" stop="20181015200000 +0200" channel="tv3.se">
+    <title lang="sv">Masterchef USA</title>
+    <desc lang="sv">Det är säsongspremiär och 40 av de bästa kockarna i Amerika har kommit till Los Angels för att tävla om det vita förklädet för att sedan kunna gå vidare i tävlingen. En kokbok och en vinstsumma på 250 000 dollar står på spel. Domare är Gordon Ramsay och Christina Tosi.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">6 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 7</episode-num>
+  </programme>
+  <programme start="20181015200000 +0200" stop="20181015210000 +0200" channel="tv3.se">
+    <title lang="sv">Frusna vägar</title>
+    <desc lang="sv">I säsongspremiären rycker Kent ut för att hjälpa en plogbil som väjt ner i diket eftersom en turist kört mitt i vägbanan.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">1 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 2</episode-num>
+  </programme>
+  <programme start="20181015210000 +0200" stop="20181015220000 +0200" channel="tv3.se">
+    <title lang="sv">Gordon Ramsay's 24 Hours to Hell and Back</title>
+    <desc lang="sv">Gordon och hans team renoverar och skapar en helt ny meny för den omkullfallande restaurangen Cajun i New Orleans i ett försök att rädda den.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+  </programme>
+  <programme start="20181015220000 +0200" stop="20181015230000 +0200" channel="tv3.se">
+    <title lang="sv">Paradise Hotel</title>
+    <desc lang="sv">Hotellet har förvandlats till ett tivoli med både lyckohjul och clown, men för den med otur i spel kan det bli ödesdigert - och är den gamla deltagaren verkligen där för att roa gästerna?</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">8 . 18 .</episode-num>
+    <episode-num system="onscreen">Episode 19 season 9</episode-num>
+  </programme>
+  <programme start="20181015230000 +0200" stop="20181016000000 +0200" channel="tv3.se">
+    <title lang="sv">NCIS: Los Angeles</title>
+    <desc lang="sv">Teamet åker till Syrien för ett uppdrag och en teamspelare blir allvarligt skadad.</desc>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Drama</category>
+    <episode-num system="xmltv_ns">7 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 8</episode-num>
+  </programme>
+  <programme start="20181016000000 +0200" stop="20181016003000 +0200" channel="tv3.se">
+    <title lang="sv">How I Met Your Mother</title>
+    <desc lang="sv">Ted får en chock när han får veta att Lily är ansvarig för att många av hans förhållanden tagit slut.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">3 . 16 .</episode-num>
+    <episode-num system="onscreen">Episode 17 season 4</episode-num>
+  </programme>
+  <programme start="20181016003000 +0200" stop="20181016010000 +0200" channel="tv3.se">
+    <title lang="sv">How I Met Your Mother</title>
+    <desc lang="sv">Marshall och Barney ljuger för att hindra Ted från att få reda på att huvudkvarteret han fått i uppdrag att designa har ställts in.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">3 . 17 .</episode-num>
+    <episode-num system="onscreen">Episode 18 season 4</episode-num>
+  </programme>
+  <programme start="20181016010000 +0200" stop="20181016013000 +0200" channel="tv3.se">
+    <title lang="sv">Jims värld</title>
+    <desc lang="sv">Dana hypnotiserar Andy för att ta reda på varför hans förhållanden aldrig varar längre än sex veckor.</desc>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6 . 14 .</episode-num>
+    <episode-num system="onscreen">Episode 15 season 7</episode-num>
+  </programme>
+  <programme start="20181016013000 +0200" stop="20181016020000 +0200" channel="tv3.se">
+    <title lang="sv">Jims värld</title>
+    <desc lang="sv">Dana hypnotiserar Andy för att ta reda på varför hans förhållanden aldrig varar längre än sex veckor.</desc>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">6 . 15 .</episode-num>
+    <episode-num system="onscreen">Episode 16 season 7</episode-num>
+  </programme>
+</tv>

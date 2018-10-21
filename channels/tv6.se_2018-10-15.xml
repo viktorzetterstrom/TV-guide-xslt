@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20181015021000 +0200" stop="20181015023500 +0200" channel="tv6.se">
+    <title lang="sv">American Dad</title>
+    <sub-title lang="sv">The Dentist's Wife</sub-title>
+    <desc lang="sv">Steve förvandlas till stadens paria efter att han övertalat stjärnquarterbacken att sluta spela. Roger tvingar Hayley att börja köra taxi så hon kan betala tillbaka honom för sina spelskulder.</desc>
+    <credits>
+      <actor role="Stan Smith (voice)">Seth MacFarlane</actor>
+      <actor role="Francine Smith (voice)">Wendy Schaal</actor>
+      <actor role="Hayley Smith (voice)">Rachael MacFarlane</actor>
+      <actor role="Steve Smith (voice)">Scott Grimes</actor>
+      <actor role="Klaus (voice)">Dee Bradley Baker</actor>
+      <actor role="Snot (Voice)">Curtis Armstrong</actor>
+      <actor role="Avery Bullock (Voice)">Patrick Stewart</actor>
+      <actor role="Barry Robinson (Vocie)">Eddie Kaye Thomas</actor>
+      <actor role="Jeff Fischer (Voice)">Jeff Fischer</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1433/season/13/episode/12</url>
+    <episode-num system="xmltv_ns">12 . 11/22 .</episode-num>
+    <episode-num system="onscreen">Episode 12 of 22 season 13</episode-num>
+  </programme>
+  <programme start="20181015023500 +0200" stop="20181015030000 +0200" channel="tv6.se">
+    <title lang="sv">Cooper Barrett's Guide to Surviving Life</title>
+    <sub-title lang="sv">How to Survive Being a Plus One</sub-title>
+    <desc lang="sv">Hur man överlever att vara den extra medbjudna. När Kelly blir bjuden på sitt ex bröllop i Mexico vill hon inte gå dit själv och beslutar sig för att ta med Cooper.</desc>
+    <credits>
+      <actor role="Kelly">Meaghan Rath</actor>
+      <actor role="Neal">Charlie Saxton</actor>
+      <actor role="Barry">James Earl</actor>
+      <actor role="Josh Barret">Justin Bartha</actor>
+      <actor role="Cooper Barrett">Jack Cutmore-Scott</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/63260/season/1/episode/3</url>
+    <episode-num system="xmltv_ns">0 . 2/13 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 13 season 1</episode-num>
+  </programme>
+  <programme start="20181015030000 +0200" stop="20181015032000 +0200" channel="tv6.se">
+    <title lang="sv">Cooper Barrett's Guide to Surviving Life</title>
+    <sub-title lang="sv">How to Survive Losing Your Phone</sub-title>
+    <desc lang="sv">Hur man överlever utan sin telefon. Cooper tappar bort sin telefon vilket leder till att han, Josh, Barry och Neals kväll fylls av otyg och bland annat en hemma-fest.</desc>
+    <credits>
+      <actor role="Kelly">Meaghan Rath</actor>
+      <actor role="Neal">Charlie Saxton</actor>
+      <actor role="Barry">James Earl</actor>
+      <actor role="Josh Barret">Justin Bartha</actor>
+      <actor role="Cooper Barrett">Jack Cutmore-Scott</actor>
+      <actor role="Teenager #2 / Brandon">Jay Jay Warren</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/63260/season/1/episode/4</url>
+    <episode-num system="xmltv_ns">0 . 3/13 .</episode-num>
+    <episode-num system="onscreen">Episode 4 of 13 season 1</episode-num>
+  </programme>
+  <programme start="20181015032000 +0200" stop="20181015040500 +0200" channel="tv6.se">
+    <title lang="sv">The Amazing Race</title>
+    <sub-title lang="sv">Welcome to Bloody Fingers 101</sub-title>
+    <desc lang="sv">I Georgia får lagen lära sig att göra godis på traditionellt vis och utforska kvarlevorna av en gammal vintillverkning.</desc>
+    <credits>
+      <actor role="Himself - Host">Phil Keoghan</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>https://www.themoviedb.org/tv/30957/season/28/episode/7</url>
+    <episode-num system="xmltv_ns">27 . 6/12 .</episode-num>
+    <episode-num system="onscreen">Episode 7 of 12 season 28</episode-num>
+  </programme>
+  <programme start="20181015040500 +0200" stop="20181015045000 +0200" channel="tv6.se">
+    <title lang="sv">Battle Creek</title>
+    <sub-title lang="sv">Man's Best Friend</sub-title>
+    <desc lang="sv">Polishunden Cookie nosar fram heroin i en liten flickas ryggsäck, vilket får Russ och Milt att söka efter bevis som matchar med deras respektive teorier om var drogerna kom ifrån och varför flickan hade dom. Jacocks försöker ta reda på orsaken till varför Milt har skickats till Battle Creek när hon är på utbildning i Detroit.</desc>
+    <credits>
+      <director>Oz Scott</director>
+      <actor role="Special Agent Milton Chamberlain">Josh Duhamel</actor>
+      <actor role="Detective Russ Agnew">Dean Winters</actor>
+      <actor role="Commander Guziewicz">Janet McTeer</actor>
+      <actor role="Detective Fontanelle">Kal Penn</actor>
+      <actor role="Holly Dale">Aubrey Dollar</actor>
+      <actor role="Detective Aaron Funkhauser">Edward Fordham, Jr.</actor>
+      <actor role="Al">Susie Abromeit</actor>
+      <actor role="Mrs. Kaplan">Lisa Glass</actor>
+      <writer>Thomas L. Moran</writer>
+    </credits>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <url>https://www.themoviedb.org/tv/61676/season/1/episode/3</url>
+    <episode-num system="xmltv_ns">0 . 2/13 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 13 season 1</episode-num>
+  </programme>
+  <programme start="20181015045000 +0200" stop="20181015051500 +0200" channel="tv6.se">
+    <title lang="sv">Married</title>
+    <sub-title lang="sv">Aftershocks</sub-title>
+    <desc lang="sv">Lina och Russ inser försent att de har låtit fel vänner hålla i deras födelsedagsfirande.</desc>
+    <credits>
+      <actor role="Lina Bowman">Judy Greer</actor>
+      <actor role="Russ Bowman">Nat Faxon</actor>
+      <actor role="AJ">Brett Gelman</actor>
+      <actor role="Jess">Jenny Slate</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <url>https://www.themoviedb.org/tv/60782/season/2/episode/2</url>
+    <episode-num system="xmltv_ns">1 . 1/13 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 13 season 2</episode-num>
+  </programme>
+  <programme start="20181015051500 +0200" stop="20181015053500 +0200" channel="tv6.se">
+    <title lang="sv">Married</title>
+    <sub-title lang="sv">The Sandwich</sub-title>
+    <desc lang="sv">Russ och Lina går på var sina dejter.</desc>
+    <credits>
+      <actor role="Lina Bowman">Judy Greer</actor>
+      <actor role="Russ Bowman">Nat Faxon</actor>
+      <actor role="AJ">Brett Gelman</actor>
+      <actor role="Jess">Jenny Slate</actor>
+      <actor role="Abby">Sarah Burns</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <url>https://www.themoviedb.org/tv/60782/season/2/episode/3</url>
+    <episode-num system="xmltv_ns">1 . 2/13 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 13 season 2</episode-num>
+  </programme>
+  <programme start="20181015053500 +0200" stop="20181015060000 +0200" channel="tv6.se">
+    <title lang="sv">Frasier</title>
+    <sub-title lang="sv">Someone to Watch over Me</sub-title>
+    <desc lang="sv">Frasier blir mer och mer paranoid när han upptäcker att en av hans lyssnare förföljer honom.</desc>
+    <credits>
+      <director>James Burrows</director>
+      <actor role="Frasier Crane">Kelsey Grammer</actor>
+      <actor role="Niles Crane">David Hyde Pierce</actor>
+      <actor role="Daphne Moon">Jane Leeves</actor>
+      <actor role="Roz Doyle">Peri Gilpin</actor>
+      <actor role="Martin Crane">John Mahoney</actor>
+      <actor role="Guest Caller - Madman Martinez">John Lithgow</actor>
+      <actor role="Bob 'Bulldog' Briscoe">Dan Butler</actor>
+      <actor role="Cindy Carruthers">Alyson Reed</actor>
+      <actor role="Kari">Renée Lippin</actor>
+      <actor role="Mrs. Littlejohn">Rita McKenzie</actor>
+      <writer>Don Siegel</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/3452/season/2/episode/19</url>
+    <episode-num system="xmltv_ns">1 . 18/24 .</episode-num>
+    <episode-num system="onscreen">Episode 19 of 24 season 2</episode-num>
+  </programme>
+  <programme start="20181015060000 +0200" stop="20181015062500 +0200" channel="tv6.se">
+    <title lang="sv">Jims värld</title>
+    <sub-title lang="sv">Jim Almighty</sub-title>
+    <desc lang="sv">Arg över det faktum att Cheryl har gått med i en middagsklubb förbannar Jim kvinnans skapare, varpå gud då ger honom chansen att försöka göra ett bättre jobb själv.</desc>
+    <credits>
+      <director>Leonard R. Garner Jr.</director>
+      <actor role="Jim">James Belushi</actor>
+      <actor role="Cheryl Mabel">Courtney Thorne-Smith</actor>
+      <actor role="Andy">Larry Joe Campbell</actor>
+      <actor role="Ruby">Taylor Atelian</actor>
+      <actor role="Dana">Kimberly Williams-Paisley</actor>
+      <actor role="Kyle">Conner Rayburn</actor>
+      <actor role="Gracie">Billi Bruno</actor>
+      <writer>Ron Hart</writer>
+      <writer>John D. Beck</writer>
+    </credits>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1739/season/7/episode/1</url>
+    <episode-num system="xmltv_ns">6 . 0/18 .</episode-num>
+    <episode-num system="onscreen">Episode 1 of 18 season 7</episode-num>
+    <star-rating>
+      <value>7 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015062500 +0200" stop="20181015064500 +0200" channel="tv6.se">
+    <title lang="sv">Community</title>
+    <sub-title lang="sv">Basic Crisis Room Decorum</sub-title>
+    <desc lang="sv">Ett påstående om att en hund har blivit utexaminerad från Greendale kan skada skolans rykte. Abed angriper jycken med en annons.</desc>
+    <credits>
+      <actor role="Annie Edison">Alison Brie</actor>
+      <actor role="Jeff Winger">Joel McHale</actor>
+      <actor role="Britta Perry">Gillian Jacobs</actor>
+      <actor role="Abed Nadir">Danny Pudi</actor>
+      <actor role="Francesca 'Frankie' Dart">Paget Brewster</actor>
+      <actor role="Señor Ben Chang">Ken Jeong</actor>
+      <actor role="Dean Craig Pelton">Jim Rash</actor>
+      <actor role="Elroy Patashnik">Keith David</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/18347/season/6/episode/3</url>
+    <episode-num system="xmltv_ns">5 . 2/13 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 13 season 6</episode-num>
+  </programme>
+  <programme start="20181015064500 +0200" stop="20181015073500 +0200" channel="tv6.se">
+    <title lang="sv">Stargate SG-1</title>
+    <sub-title lang="sv">Paradise Lost</sub-title>
+    <desc lang="sv">Maybourne erbjuder sig att avslöja platsen för ett utomjordiskt vapen, men bara om han får följa med. Men Maybourne lurar SG-1 och teleporteras tillsammans med Jack till vad han tror är "Utopia". Det visar sig dock att civilisationen har utplånats</desc>
+    <credits>
+      <director>Bill Gereghty</director>
+      <director>William Gereghty</director>
+      <actor role="Jack O'Neill">Richard Dean Anderson</actor>
+      <actor role="Teal'c">Christopher Judge</actor>
+      <actor role="Samantha Carter">Amanda Tapping</actor>
+      <actor role="Jonas Quinn">Corin Nemec</actor>
+      <actor role="George Hammond">Don S. Davis</actor>
+      <actor role="Bill Lee">Bill Dow</actor>
+      <actor role="Walter Harriman">Gary Jones</actor>
+      <actor role="Harry Maybourne">Tom McBeath</actor>
+      <actor role="Sgt. Siler">Dan Shea</actor>
+      <writer>Robert C. Cooper</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">series</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi</category>
+    <url>https://www.themoviedb.org/tv/4629/season/6/episode/15</url>
+    <episode-num system="xmltv_ns">5 . 14/22 .</episode-num>
+    <episode-num system="onscreen">Episode 15 of 22 season 6</episode-num>
+  </programme>
+  <programme start="20181015073500 +0200" stop="20181015080000 +0200" channel="tv6.se">
+    <title lang="sv">Våra värsta år</title>
+    <sub-title lang="sv">'Til Death Do Us Part</sub-title>
+    <desc lang="sv">Al blir deppig när han får veta att Peggy berättat för alla att han är dålig i sängen.</desc>
+    <credits>
+      <director>Gerry Cohen</director>
+      <actor role="Al Bundy">Ed O'Neill</actor>
+      <actor role="Peggy Bundy">Katey Sagal</actor>
+      <actor role="Bud Bundy">David Faustino</actor>
+      <actor role="Kelly Bundy">Christina Applegate</actor>
+      <actor role="Marcy D'Arcy">Amanda Bearse</actor>
+      <actor role="Jefferson D'Arcy">Ted McGinley</actor>
+      <writer>Stacie Lipp</writer>
+    </credits>
+    <date>1993</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/4239/season/7/episode/22</url>
+    <episode-num system="xmltv_ns">6 . 21/26 .</episode-num>
+    <episode-num system="onscreen">Episode 22 of 26 season 7</episode-num>
+    <star-rating>
+      <value>7.8 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015080000 +0200" stop="20181015083000 +0200" channel="tv6.se">
+    <title lang="sv">Våra värsta år</title>
+    <sub-title lang="sv">Tis Time to Smell the Roses</sub-title>
+    <desc lang="sv">Al får erbjudande om att förtidpensioneras.</desc>
+    <credits>
+      <director>Gerry Cohen</director>
+      <actor role="Al Bundy">Ed O'Neill</actor>
+      <actor role="Peggy Bundy">Katey Sagal</actor>
+      <actor role="Bud Bundy">David Faustino</actor>
+      <actor role="Kelly Bundy">Christina Applegate</actor>
+      <actor role="Marcy D'Arcy">Amanda Bearse</actor>
+      <actor role="Jefferson D'Arcy">Ted McGinley</actor>
+      <writer>Kevin Curran</writer>
+    </credits>
+    <date>1993</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/4239/season/7/episode/23</url>
+    <episode-num system="xmltv_ns">6 . 22/26 .</episode-num>
+    <episode-num system="onscreen">Episode 23 of 26 season 7</episode-num>
+  </programme>
+  <programme start="20181015083000 +0200" stop="20181015090000 +0200" channel="tv6.se">
+    <title lang="sv">Jims värld</title>
+    <sub-title lang="sv">The Hot Wife</sub-title>
+    <desc lang="sv">Cheryl blir deppad när hon inte lyckas använda sig av sin sex appeal för att få bord på en restaurang. Jim försöker göra henne glad genom att komponera ett brev från en "hemlig beundrare", men konsekvenserna får honom att undra om han inte gjorde ett misstag.</desc>
+    <credits>
+      <director>Leonard R. Garner Jr.</director>
+      <actor role="Jim">James Belushi</actor>
+      <actor role="Cheryl Mabel">Courtney Thorne-Smith</actor>
+      <actor role="Andy">Larry Joe Campbell</actor>
+      <actor role="Ruby">Taylor Atelian</actor>
+      <actor role="Dana">Kimberly Williams-Paisley</actor>
+      <actor role="Kyle">Conner Rayburn</actor>
+      <actor role="Gracie">Billi Bruno</actor>
+      <writer>David Feeney</writer>
+    </credits>
+    <date>2008</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1739/season/7/episode/2</url>
+    <episode-num system="xmltv_ns">6 . 1/18 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 18 season 7</episode-num>
+    <star-rating>
+      <value>7 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015090000 +0200" stop="20181015093000 +0200" channel="tv6.se">
+    <title lang="sv">The King of Queens</title>
+    <sub-title lang="sv">Paternal Affairs</sub-title>
+    <desc lang="sv">Arthur blir tagen direkt av Dougs favoritmoster och frågar om han får dejta henne.</desc>
+    <credits>
+      <director>Brian K. Roberts</director>
+      <actor role="Doug Heffernan">Kevin James</actor>
+      <actor role="Carrie Heffernan">Leah Remini</actor>
+      <actor role="Deacon Palmer">Victor Williams</actor>
+      <actor role="Arthur Spooner">Jerry Stiller</actor>
+      <actor role="Spence Olchin">Patton Oswalt</actor>
+      <actor role="Danny Heffernan">Gary Valentine</actor>
+      <actor role="Holly Shumpert">Nicole Sullivan</actor>
+      <actor role="Lou Ferrigno">Lou Ferrigno</actor>
+      <actor role="Janet Heffernan">Jenny O'Hara</actor>
+      <actor role="Richie Ianucci">Larry Romano</actor>
+      <actor role="Sheila Rednester">Brenda Vaccaro</actor>
+      <actor role="Sara Spooner">Lisa Rieffel</actor>
+      <actor role="Arthur Spooner">Jerry Stiller</actor>
+      <actor role="Spence Olchin">Patton Oswalt</actor>
+    </credits>
+    <date>2001</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/4238/season/1/episode/5</url>
+    <episode-num system="xmltv_ns">0 . 4/25 .</episode-num>
+    <episode-num system="onscreen">Episode 5 of 25 season 1</episode-num>
+  </programme>
+  <programme start="20181015093000 +0200" stop="20181015100000 +0200" channel="tv6.se">
+    <title lang="sv">Brooklyn Nine Nine</title>
+    <sub-title lang="sv">USPIS</sub-title>
+    <desc lang="sv">Under jakten på en knarklangare samarbetar Jake och Charles motvilligt med den nördige huvudutredaren på postkontoret: Jack Danger. Samtidigt får Amy hjälp av teamet att sluta röka.</desc>
+    <credits>
+      <actor role="Jake Peralta">Andy Samberg</actor>
+      <actor role="Captain Ray Holt">Andre Braugher</actor>
+      <actor role="Terry Jeffords">Terry Crews</actor>
+      <actor role="Amy Santiago">Melissa Fumero</actor>
+      <actor role="Gina Linetti">Chelsea Peretti</actor>
+      <actor role="Rosa Diaz">Stephanie Beatriz</actor>
+      <actor role="Charles Boyle">Joe Lo Truglio</actor>
+      <actor role="Norman “Norm” Scully">Joel McKinnon Miller</actor>
+      <actor role="Michael Hitchcock">Dirk Blocker</actor>
+      <actor>Ed Helms</actor>
+    </credits>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Crime</category>
+    <url>https://www.themoviedb.org/tv/48891/season/2/episode/8</url>
+    <episode-num system="xmltv_ns">1 . 7/23 .</episode-num>
+    <episode-num system="onscreen">Episode 8 of 23 season 2</episode-num>
+  </programme>
+  <programme start="20181015100000 +0200" stop="20181015103000 +0200" channel="tv6.se">
+    <title lang="sv">Scrubs</title>
+    <sub-title lang="sv">My Sacrificial Clam</sub-title>
+    <desc lang="sv">J.D. blir rädd att han har smittats av hepatit B efter att ha råkat få en spruta i armen. Från det ögonblicket försöker han undvika alla smittsamma patienter.</desc>
+    <credits>
+      <director>Marc Buckland</director>
+      <actor role="John 'J.D.' Dorian">Zach Braff</actor>
+      <actor role="Christopher Turk">Donald Faison</actor>
+      <actor role="Elliot Reid">Sarah Chalke</actor>
+      <actor role="Perry Cox">John C. McGinley</actor>
+      <actor role="Janitor">Neil Flynn</actor>
+      <actor role="Bob Kelso">Ken Jenkins</actor>
+      <actor role="Carla Espinosa">Judy Reyes</actor>
+      <actor role="Inserviente">Neil Flynn</actor>
+      <actor>Scott Foley</actor>
+      <actor>Ed Begley Jr.</actor>
+      <actor>Robert Maschio</actor>
+      <actor>William Daniels</actor>
+      <actor>Sam Lloyd</actor>
+      <actor>Stephen Furst</actor>
+      <actor>Eric Laneuville</actor>
+      <actor role="Laverne Roberts">Aloma Wright</actor>
+      <actor>Neil Flynn</actor>
+      <writer>Mark Stegemann</writer>
+      <writer>Janae Bakken</writer>
+    </credits>
+    <date>2002</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <url>https://www.themoviedb.org/tv/4556/season/1/episode/21</url>
+    <episode-num system="xmltv_ns">0 . 20/24 .</episode-num>
+    <episode-num system="onscreen">Episode 21 of 24 season 1</episode-num>
+  </programme>
+  <programme start="20181015103000 +0200" stop="20181015110000 +0200" channel="tv6.se">
+    <title lang="sv">Scrubs</title>
+    <sub-title lang="sv">My Occurrence</sub-title>
+    <desc lang="sv">Dr Cox vän och före detta svåger, Ben Sullivan, blir intagen på sjukhuset. Ben är bror till Jordan, men tog Cox parti efter skilsmässan och de har varit vänner sedan dess.</desc>
+    <credits>
+      <director>Lawrence Trilling</director>
+      <actor role="John 'J.D.' Dorian">Zach Braff</actor>
+      <actor role="Christopher Turk">Donald Faison</actor>
+      <actor role="Elliot Reid">Sarah Chalke</actor>
+      <actor role="Perry Cox">John C. McGinley</actor>
+      <actor role="Janitor">Neil Flynn</actor>
+      <actor role="Bob Kelso">Ken Jenkins</actor>
+      <actor role="Carla Espinosa">Judy Reyes</actor>
+      <actor role="Inserviente">Neil Flynn</actor>
+      <actor>Neil Flynn</actor>
+      <actor>Christa Miller</actor>
+      <actor>Sam Lloyd</actor>
+      <actor>Robert Maschio</actor>
+      <actor>Nicole Sullivan</actor>
+      <actor>Johnny Kastl</actor>
+      <actor>Brendan Fraser</actor>
+      <actor>Masi Oka</actor>
+      <writer>Bill Lawrence</writer>
+    </credits>
+    <date>2002</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <category lang="en">Drama</category>
+    <url>https://www.themoviedb.org/tv/4556/season/1/episode/22</url>
+    <episode-num system="xmltv_ns">0 . 21/24 .</episode-num>
+    <episode-num system="onscreen">Episode 22 of 24 season 1</episode-num>
+  </programme>
+  <programme start="20181015110000 +0200" stop="20181015113000 +0200" channel="tv6.se">
+    <title lang="sv">Seinfeld</title>
+    <sub-title lang="sv">The Label Maker</sub-title>
+    <desc lang="sv">Jerry ställs inför ett svårt dilemma, när bröllopet han medverkar i hålls på samma dag som Superbowl.</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor role="Jerry Seinfeld">Jerry Seinfeld</actor>
+      <actor role="George Costanza">Jason Alexander</actor>
+      <actor role="Cosmo Kramer">Michael Richards</actor>
+      <actor role="Elaine Benes">Julia Louis-Dreyfus</actor>
+      <actor>Jessica Tuck</actor>
+      <actor>Bryan Cranston</actor>
+      <actor>Wayne Knight</actor>
+      <writer>Alec Berg</writer>
+      <writer>Jeff Schaffer</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1400/season/6/episode/12</url>
+    <episode-num system="xmltv_ns">5 . 11/24 .</episode-num>
+    <episode-num system="onscreen">Episode 12 of 24 season 6</episode-num>
+    <star-rating>
+      <value>6.4 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015113000 +0200" stop="20181015120000 +0200" channel="tv6.se">
+    <title lang="sv">Seinfeld</title>
+    <sub-title lang="sv">The Scofflaw</sub-title>
+    <desc lang="sv">George träffar en gammal vän som nyligen fått behandling mot cancer, men upptäcker snart att vännen har ljugit om sin sjukdom och utnyttjar George.</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor role="Jerry Seinfeld">Jerry Seinfeld</actor>
+      <actor role="George Costanza">Jason Alexander</actor>
+      <actor role="Cosmo Kramer">Michael Richards</actor>
+      <actor role="Elaine Benes">Julia Louis-Dreyfus</actor>
+      <actor>Wayne Knight</actor>
+      <actor>Lillian Lehman</actor>
+      <actor>Jon Lovitz</actor>
+      <actor>Barbara Alyn Woods</actor>
+      <writer>Peter Mehlman</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1400/season/6/episode/13</url>
+    <episode-num system="xmltv_ns">5 . 12/24 .</episode-num>
+    <episode-num system="onscreen">Episode 13 of 24 season 6</episode-num>
+    <star-rating>
+      <value>6.6 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015120000 +0200" stop="20181015130000 +0200" channel="tv6.se">
+    <title lang="sv">Stargate SG-1</title>
+    <sub-title lang="sv">Metamorphosis</sub-title>
+    <desc lang="sv">SG-1 upptäcker att Nirrti har fortsatt sitt experiment för att skapa den perfekta människan.</desc>
+    <credits>
+      <director>Peter DeLuise</director>
+      <actor role="Jack O'Neill">Richard Dean Anderson</actor>
+      <actor role="Teal'c">Christopher Judge</actor>
+      <actor role="Samantha Carter">Amanda Tapping</actor>
+      <actor role="Jonas Quinn">Corin Nemec</actor>
+      <actor role="George Hammond">Don S. Davis</actor>
+      <actor role="Nirrti">Jacqueline Samuda</actor>
+      <actor role="Walter Harriman">Gary Jones</actor>
+      <actor role="Janet Fraiser">Teryl Rothery</actor>
+      <actor role="Lt. Colonel Sergei Evanov">Raoul Ganeev</actor>
+      <actor role="Eggar">Alex Zahara</actor>
+      <actor role="Wodan">Dion Johnstone</actor>
+      <actor role="Alebran">Alejandro Rae</actor>
+      <writer>James Tichenor</writer>
+      <writer>Jacqueline Samuda</writer>
+      <writer>James Tiechnor</writer>
+    </credits>
+    <date>2003</date>
+    <category lang="en">series</category>
+    <category lang="en">Fantasy</category>
+    <category lang="en">Sci-Fi</category>
+    <url>https://www.themoviedb.org/tv/4629/season/6/episode/16</url>
+    <episode-num system="xmltv_ns">5 . 15/22 .</episode-num>
+    <episode-num system="onscreen">Episode 16 of 22 season 6</episode-num>
+  </programme>
+  <programme start="20181015130000 +0200" stop="20181015133000 +0200" channel="tv6.se">
+    <title lang="sv">The King of Queens</title>
+    <sub-title lang="sv">Head First</sub-title>
+    <desc lang="sv">Doug gör ett försök att vara vänligare mot Arthur och upptäcker snart för- och nackdelar med att låta svärfar hänga med ut offentligt.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Doug Heffernan">Kevin James</actor>
+      <actor role="Carrie Heffernan">Leah Remini</actor>
+      <actor role="Deacon Palmer">Victor Williams</actor>
+      <actor role="Arthur Spooner">Jerry Stiller</actor>
+      <actor role="Spence Olchin">Patton Oswalt</actor>
+      <actor role="Danny Heffernan">Gary Valentine</actor>
+      <actor role="Holly Shumpert">Nicole Sullivan</actor>
+      <actor role="Lou Ferrigno">Lou Ferrigno</actor>
+      <actor role="Janet Heffernan">Jenny O'Hara</actor>
+      <actor role="Richie Ianucci">Larry Romano</actor>
+      <actor role="Rhonda">Shari Albert</actor>
+      <actor role="Sara Spooner">Lisa Rieffel</actor>
+      <actor role="Deacon Palmer">Victor Williams</actor>
+      <actor role="Arthur Spooner">Jerry Stiller</actor>
+      <actor role="Spence Olchin">Patton Oswalt</actor>
+      <actor role="Richie Iannucci">Larry Romano</actor>
+      <actor role="Debbie">Lesli Margherita</actor>
+      <writer>Michael J. Weithorn</writer>
+    </credits>
+    <date>2001</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/4238/season/1/episode/6</url>
+    <episode-num system="xmltv_ns">0 . 5/25 .</episode-num>
+    <episode-num system="onscreen">Episode 6 of 25 season 1</episode-num>
+  </programme>
+  <programme start="20181015133000 +0200" stop="20181015140000 +0200" channel="tv6.se">
+    <title lang="sv">How I Met Your Mother</title>
+    <sub-title lang="sv">Cupcake</sub-title>
+    <desc lang="sv">Saker är jättebra mellan Ted och Victoria, men när Victoria får sitt drömjobb måste paret bestämma sig för hur de ska göra med sitt förhållande.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Ted Mosby">Josh Radnor</actor>
+      <actor role="Marshall Eriksen">Jason Segel</actor>
+      <actor role="Robin Scherbatsky">Cobie Smulders</actor>
+      <actor role="Barney Stinson">Neil Patrick Harris</actor>
+      <actor role="Lily Aldrin">Alyson Hannigan</actor>
+      <actor>Caroline Lagerfelt</actor>
+      <actor>Ashley Williams</actor>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1100/season/1/episode/16</url>
+    <episode-num system="xmltv_ns">0 . 15/22 .</episode-num>
+    <episode-num system="onscreen">Episode 16 of 22 season 1</episode-num>
+  </programme>
+  <programme start="20181015140000 +0200" stop="20181015143000 +0200" channel="tv6.se">
+    <title lang="sv">How I Met Your Mother</title>
+    <sub-title lang="sv">Life Among the Gorillas</sub-title>
+    <desc lang="sv">Marshall praktiserar på Barneys företag och upptäcker att han håller på att bli lika ytlig som de som jobbar där.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Ted Mosby">Josh Radnor</actor>
+      <actor role="Marshall Eriksen">Jason Segel</actor>
+      <actor role="Robin Scherbatsky">Cobie Smulders</actor>
+      <actor role="Barney Stinson">Neil Patrick Harris</actor>
+      <actor role="Lily Aldrin">Alyson Hannigan</actor>
+      <actor>Bryan Callen</actor>
+      <actor>Taran Killam</actor>
+      <actor>Diane Salinger</actor>
+      <writer>Craig Thomas</writer>
+      <writer>Carter Bays</writer>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1100/season/1/episode/17</url>
+    <episode-num system="xmltv_ns">0 . 16/22 .</episode-num>
+    <episode-num system="onscreen">Episode 17 of 22 season 1</episode-num>
+  </programme>
+  <programme start="20181015143000 +0200" stop="20181015150000 +0200" channel="tv6.se">
+    <title lang="sv">2 1/2 män</title>
+    <desc lang="sv">Alan misstänker att Charlie fortfarande är vid liv, vilket bekräftas när han får ett läskigt paket och Rose berättar sanningen.</desc>
+    <date>2014</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">11 . 14 .</episode-num>
+    <episode-num system="onscreen">Episode 15 season 12</episode-num>
+  </programme>
+  <programme start="20181015150000 +0200" stop="20181015160000 +0200" channel="tv6.se">
+    <title lang="sv">Tattoo Fixers</title>
+    <sub-title lang="sv">Episode 2</sub-title>
+    <desc lang="sv">Glen checkar av Erikas checklista och Alice blåser iväg Cheryls blåsiga djävul. Sketch hjälper till med Jasons sambuca-ärr.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>https://www.themoviedb.org/tv/71239/season/4/episode/2</url>
+    <episode-num system="xmltv_ns">3 . 1/4 .</episode-num>
+    <episode-num system="onscreen">Episode 2 of 4 season 4</episode-num>
+  </programme>
+  <programme start="20181015160000 +0200" stop="20181015170000 +0200" channel="tv6.se">
+    <title lang="sv">NCIS: Los Angeles</title>
+    <sub-title lang="sv">The Queen's Gambit</sub-title>
+    <desc lang="sv">NCIS LA-teamet, nedskalat till endast två personer, utreder bortrövande. Hetty hålls i förhör i D.C. och den andra är fortfarande i ICU.</desc>
+    <credits>
+      <actor role="G. Callen">Chris O'Donnell</actor>
+      <actor role="Sam Hanna">LL Cool J</actor>
+      <actor role="Kensi Blye">Daniela Ruah</actor>
+      <actor role="Marty Deeks">Eric Christian Olsen</actor>
+      <actor role="Henrietta &quot;Hetty&quot; Lange">Linda Hunt</actor>
+      <actor role="Eric Beal">Barrett Foa</actor>
+      <actor role="Owen Granger">Miguel Ferrer</actor>
+      <actor role="Nell Jones">Renée Felice Smith</actor>
+      <actor role="Julia Feldman">Laura Harring</actor>
+      <actor role="Resident">Micky Shiloah</actor>
+      <actor role="Chen / Shu Chen">Lisa Maley</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Mystery</category>
+    <url>https://www.themoviedb.org/tv/17610/season/8/episode/3</url>
+    <episode-num system="xmltv_ns">7 . 2/24 .</episode-num>
+    <episode-num system="onscreen">Episode 3 of 24 season 8</episode-num>
+  </programme>
+  <programme start="20181015170000 +0200" stop="20181015173000 +0200" channel="tv6.se">
+    <title lang="sv">Seinfeld</title>
+    <sub-title lang="sv">The Highlights of 100 (1)</sub-title>
+    <desc lang="sv">Vi får se klipp från höjdpunkerna i de första 99 avsnitten.</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor role="Jerry Seinfeld">Jerry Seinfeld</actor>
+      <actor role="George Costanza">Jason Alexander</actor>
+      <actor role="Cosmo Kramer">Michael Richards</actor>
+      <actor role="Elaine Benes">Julia Louis-Dreyfus</actor>
+      <writer>Peter Mehlman</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1400/season/6/episode/14</url>
+    <episode-num system="xmltv_ns">5 . 13/24 .</episode-num>
+    <episode-num system="onscreen">Episode 14 of 24 season 6</episode-num>
+    <star-rating>
+      <value>6.6 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015173000 +0200" stop="20181015180000 +0200" channel="tv6.se">
+    <title lang="sv">Seinfeld</title>
+    <sub-title lang="sv">The Highlights of 100 (2)</sub-title>
+    <desc lang="sv">Vi får se klipp från höjdpunkerna i de första 99 avsnitten.</desc>
+    <credits>
+      <director>Andy Ackerman</director>
+      <actor role="Jerry Seinfeld">Jerry Seinfeld</actor>
+      <actor role="George Costanza">Jason Alexander</actor>
+      <actor role="Cosmo Kramer">Michael Richards</actor>
+      <actor role="Elaine Benes">Julia Louis-Dreyfus</actor>
+      <writer>Peter Mehlman</writer>
+    </credits>
+    <date>1995</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1400/season/6/episode/15</url>
+    <episode-num system="xmltv_ns">5 . 14/24 .</episode-num>
+    <episode-num system="onscreen">Episode 15 of 24 season 6</episode-num>
+    <star-rating>
+      <value>8.3 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015180000 +0200" stop="20181015183000 +0200" channel="tv6.se">
+    <title lang="sv">How I Met Your Mother</title>
+    <sub-title lang="sv">Nothing Good Happens After 2 A.M.</sub-title>
+    <desc lang="sv">Robin känner sig ensam och ber Ted att komma över till hennes lägenhet efter klockan två på natten. Men han är inte säker på att han vill.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Ted Mosby">Josh Radnor</actor>
+      <actor role="Marshall Eriksen">Jason Segel</actor>
+      <actor role="Robin Scherbatsky">Cobie Smulders</actor>
+      <actor role="Barney Stinson">Neil Patrick Harris</actor>
+      <actor role="Lily Aldrin">Alyson Hannigan</actor>
+      <actor>Ashley Williams</actor>
+      <actor>Alexis Denisof</actor>
+      <actor>Alyssa Shafer</actor>
+      <actor>Lawrence Mandley</actor>
+      <actor role="Korean Elvis (as George Kee Cheung)">George Cheung</actor>
+      <writer>Craig Thomas</writer>
+      <writer>Carter Bays</writer>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1100/season/1/episode/18</url>
+    <episode-num system="xmltv_ns">0 . 17/22 .</episode-num>
+    <episode-num system="onscreen">Episode 18 of 22 season 1</episode-num>
+  </programme>
+  <programme start="20181015183000 +0200" stop="20181015190000 +0200" channel="tv6.se">
+    <title lang="sv">How I Met Your Mother</title>
+    <sub-title lang="sv">Mary the Paralegal</sub-title>
+    <desc lang="sv">Robin har nominerats till ett pris i Tv-journalistik och alla måste ta med sig en dejt till prisgalan.</desc>
+    <credits>
+      <director>Pamela Fryman</director>
+      <actor role="Ted Mosby">Josh Radnor</actor>
+      <actor role="Marshall Eriksen">Jason Segel</actor>
+      <actor role="Robin Scherbatsky">Cobie Smulders</actor>
+      <actor role="Barney Stinson">Neil Patrick Harris</actor>
+      <actor role="Lily Aldrin">Alyson Hannigan</actor>
+      <actor>Erinn Bartlett</actor>
+      <actor>Robert Michael Morris</actor>
+      <actor>Alexis Denisof</actor>
+      <writer>Chris Harris</writer>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1100/season/1/episode/19</url>
+    <episode-num system="xmltv_ns">0 . 18/22 .</episode-num>
+    <episode-num system="onscreen">Episode 19 of 22 season 1</episode-num>
+  </programme>
+  <programme start="20181015190000 +0200" stop="20181015193000 +0200" channel="tv6.se">
+    <title lang="sv">Simpsons</title>
+    <desc lang="sv">Homer är besatt av TV-serien Storage Battles, vilket leder till att familjen avslöjar Grampas tidigare identitet som "Gorgeous Godfrey", världens mest fruktade brottare.</desc>
+    <date>2012</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">23 . 13 .</episode-num>
+    <episode-num system="onscreen">Episode 14 season 24</episode-num>
+  </programme>
+  <programme start="20181015193000 +0200" stop="20181015200000 +0200" channel="tv6.se">
+    <title lang="sv">Simpsons</title>
+    <desc lang="sv">Flanders blir svartsjuk när hans föräldrar börjar att föredra Homers sällskap framför hans eget. Lisa blir helt oprovocerat mobbad av sin nya vikarie.</desc>
+    <date>2012</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">23 . 14 .</episode-num>
+    <episode-num system="onscreen">Episode 15 season 24</episode-num>
+  </programme>
+  <programme start="20181015200000 +0200" stop="20181015210000 +0200" channel="tv6.se">
+    <title lang="sv">Ink Master</title>
+    <sub-title lang="sv">New School, Old Artist</sub-title>
+    <desc lang="sv">En Flash-utmaning testar deltagarnas användning för färg. En föredetta deltagare återvänder till tävlingen och lägger till ytterligare en tvist.</desc>
+    <credits>
+      <actor role="Himself - Host">Dave Navarro</actor>
+      <actor role="Himself - Judge">Chris Núñez</actor>
+      <actor role="Himself - Judge">Oliver Peck</actor>
+    </credits>
+    <date>2016</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>https://www.themoviedb.org/tv/46286/season/7/episode/5</url>
+    <episode-num system="xmltv_ns">6 . 4/13 .</episode-num>
+    <episode-num system="onscreen">Episode 5 of 13 season 7</episode-num>
+  </programme>
+  <programme start="20181015210000 +0200" stop="20181015213000 +0200" channel="tv6.se">
+    <title lang="sv">Simpsons</title>
+    <desc lang="sv">Bart läggs in på "prankster-rehab" efter att ett clown-mask bus satt skräck i hela staden och förstört Krustys karriär. Krusty försöker sig på seriöst drama på ett regional teater..</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">28 . 13 .</episode-num>
+    <episode-num system="onscreen">Episode 14 season 29</episode-num>
+  </programme>
+  <programme start="20181015213000 +0200" stop="20181015220000 +0200" channel="tv6.se">
+    <title lang="sv">Family Guy</title>
+    <desc lang="sv">När Stewie skickas för att träffa skolans barnpsykolog för en överaskande session avslöjar han stora hemligheter om sig själv.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">16 . 11 .</episode-num>
+    <episode-num system="onscreen">Episode 12 season 17</episode-num>
+  </programme>
+  <programme start="20181015220000 +0200" stop="20181015230000 +0200" channel="tv6.se">
+    <title lang="sv">Lethal Weapon</title>
+    <sub-title lang="sv">Unnecessary Roughness</sub-title>
+    <desc lang="sv">Riggs och Murtaugh utreder mordet av en ung fotbollspelare. Riggs fortsätter att spendera tid med Agent Palmer medan Murtaugh överväger att göra en stor förändring.</desc>
+    <credits>
+      <director>Bethany Rooney</director>
+      <actor role="Martin Riggs">Clayne Crawford</actor>
+      <actor role="Roger Murtaugh">Damon Wayans</actor>
+      <actor role="Trish Murtaugh">Keesha Sharp</actor>
+      <actor role="Maureen Cahill">Jordana Brewster</actor>
+      <actor role="Brooks Avery">Kevin Rahm</actor>
+      <actor role="Sonya Bailey">Michelle Mitchenor</actor>
+      <actor role="Roger Murtaugh, Jr.">Dante Brown</actor>
+      <actor role="Riana Murtaugh">Chandler Kinney</actor>
+      <actor role="Scorsese">Johnathan Fernandez</actor>
+      <actor role="Sonya Bailey">Michelle Mitchenor</actor>
+      <actor role="Jesse Raines">Chris Tavarez</actor>
+      <actor role="Walter Hancock">Robert Curtis Brown</actor>
+      <actor role="Mike Ramos">Michael Harney</actor>
+      <actor role="Tanya">Joyful Drake</actor>
+      <actor role="Benny Barns">James Black</actor>
+      <actor role="Steven Raines">Myles Grier</actor>
+      <writer>Laura Putney</writer>
+      <writer>Margaret Easley</writer>
+    </credits>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Crime</category>
+    <category lang="en">Drama</category>
+    <url>https://www.themoviedb.org/tv/67116/season/1/episode/16</url>
+    <episode-num system="xmltv_ns">0 . 15/18 .</episode-num>
+    <episode-num system="onscreen">Episode 16 of 18 season 1</episode-num>
+  </programme>
+  <programme start="20181015230000 +0200" stop="20181015233000 +0200" channel="tv6.se">
+    <title lang="sv">Simpsons</title>
+    <desc lang="sv">Det är påsk och Bart blir oskyldigt anklagad för ett ruttet rackartyg. Lisa tvingas att försvara sin bror, medan Mr. Burns försöker förverkliga sin dröm om att bli en superhjälte.</desc>
+    <date>2012</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">23 . 15 .</episode-num>
+    <episode-num system="onscreen">Episode 16 season 24</episode-num>
+  </programme>
+  <programme start="20181015233000 +0200" stop="20181016000000 +0200" channel="tv6.se">
+    <title lang="sv">Simpsons</title>
+    <desc lang="sv">Efter att ha sett filmen "Linje Lusta" antar Milhouse en Marlon Brando-inspirerad personlighet för att attrahera Lisa. Marge får nog av Homer och söker råd från sin lokala sushikock.</desc>
+    <date>2012</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">23 . 16 .</episode-num>
+    <episode-num system="onscreen">Episode 17 season 24</episode-num>
+  </programme>
+  <programme start="20181016000000 +0200" stop="20181016003000 +0200" channel="tv6.se">
+    <title lang="sv">Family Guy</title>
+    <sub-title lang="sv">Peter's Two Dads</sub-title>
+    <desc lang="sv">Peter återförenas med sina gamla klasskompisar och barndomsvännen Tom Brady vill att han börjar spela amerikansk fotboll.</desc>
+    <credits>
+      <director>Cyndi Tang</director>
+      <actor role="Peter Griffin / Brian Griffin / Stewie Griffin / Glenn Quagmire / Tom Tucker / God / Kool-Aid Guy (voice)">Seth MacFarlane</actor>
+      <actor role="Lois Griffin (voice)">Alex Borstein</actor>
+      <actor role="Meg Griffin (voice)">Mila Kunis</actor>
+      <actor role="Chris Griffin (voice)">Seth Green</actor>
+      <actor role="Meg Griffin">Lacey Chabert</actor>
+      <actor role="Herbert">Mike Henry</actor>
+      <actor role="Fouad">Mike Henry</actor>
+      <actor role="Opie">Mark Hentemann</actor>
+      <actor role="Bruce the Performance Artist">Mike Henry</actor>
+      <actor role="Greased Up Deaf Guy">Mike Henry</actor>
+      <actor role="Barbara Pewterschmidt">Alex Borstein</actor>
+      <actor role="Loretta Brown">Alex Borstein</actor>
+      <actor role="Tricia Takanawa">Alex Borstein</actor>
+      <actor role="Jesus">Alec Sulkin</actor>
+      <actor role="Buzz Killington">Danny Smith</actor>
+      <actor role="Ernie The Giant Chicken">Danny Smith</actor>
+      <actor role="The Evil Monkey">Danny Smith</actor>
+      <actor role="Jim Kaplan">Danny Smith</actor>
+      <actor role="Marguerite Pewterschmidt">Alex Borstein</actor>
+      <actor role="Jesse">Mike Henry</actor>
+      <actor>Charles Durning</actor>
+      <actor>Fred Tatasciore</actor>
+      <actor>Phyllis Diller</actor>
+      <writer>Danny Smith</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1434/season/5/episode/10</url>
+    <episode-num system="xmltv_ns">4 . 9/18 .</episode-num>
+    <episode-num system="onscreen">Episode 10 of 18 season 5</episode-num>
+  </programme>
+  <programme start="20181016003000 +0200" stop="20181016010000 +0200" channel="tv6.se">
+    <title lang="sv">Family Guy</title>
+    <sub-title lang="sv">The Tan Aquatic with Steve Zissou</sub-title>
+    <desc lang="sv">Peter är med i ett Tv-program och vinner ett hembiträde. Quagmire blir kär i henne och friar.</desc>
+    <credits>
+      <actor role="Peter Griffin / Brian Griffin / Stewie Griffin / Glenn Quagmire / Tom Tucker / God / Kool-Aid Guy (voice)">Seth MacFarlane</actor>
+      <actor role="Lois Griffin (voice)">Alex Borstein</actor>
+      <actor role="Meg Griffin (voice)">Mila Kunis</actor>
+      <actor role="Chris Griffin (voice)">Seth Green</actor>
+      <actor role="Meg Griffin">Lacey Chabert</actor>
+      <actor role="Herbert">Mike Henry</actor>
+      <actor role="Fouad">Mike Henry</actor>
+      <actor role="Opie">Mark Hentemann</actor>
+      <actor role="Bruce the Performance Artist">Mike Henry</actor>
+      <actor role="Greased Up Deaf Guy">Mike Henry</actor>
+      <actor role="Barbara Pewterschmidt">Alex Borstein</actor>
+      <actor role="Loretta Brown">Alex Borstein</actor>
+      <actor role="Tricia Takanawa">Alex Borstein</actor>
+      <actor role="Jesus">Alec Sulkin</actor>
+      <actor role="Buzz Killington">Danny Smith</actor>
+      <actor role="Ernie The Giant Chicken">Danny Smith</actor>
+      <actor role="The Evil Monkey">Danny Smith</actor>
+      <actor role="Jim Kaplan">Danny Smith</actor>
+      <actor role="Marguerite Pewterschmidt">Alex Borstein</actor>
+      <actor role="Jesse">Mike Henry</actor>
+      <actor>Mary Kay Bergman</actor>
+      <actor role="Kyle (voice)">Keir Gilchrist</actor>
+      <actor>Kevin Michael Richardson</actor>
+      <actor>Mike Barker</actor>
+      <actor>Patrick Warburton</actor>
+      <actor>Rachael MacFarlane</actor>
+      <actor>Jeff Bergman</actor>
+      <actor>Beth Littleford</actor>
+      <actor>Chris Cox</actor>
+      <actor>Michael Clarke Duncan</actor>
+      <actor>Chris Sheridan</actor>
+      <actor>Alec Sulkin</actor>
+      <writer>Mark Hentemann</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1434/season/5/episode/11</url>
+    <episode-num system="xmltv_ns">4 . 10/18 .</episode-num>
+    <episode-num system="onscreen">Episode 11 of 18 season 5</episode-num>
+  </programme>
+  <programme start="20181016010000 +0200" stop="20181016013000 +0200" channel="tv6.se">
+    <title lang="sv">American Dad</title>
+    <sub-title lang="sv">Holy S***, Jeff's Back!</sub-title>
+    <desc lang="sv">Francine låtsas att hon är änka när Stan är ute på ett uppdrag.</desc>
+    <credits>
+      <actor role="Stan Smith (voice)">Seth MacFarlane</actor>
+      <actor role="Francine Smith (voice)">Wendy Schaal</actor>
+      <actor role="Hayley Smith (voice)">Rachael MacFarlane</actor>
+      <actor role="Steve Smith (voice)">Scott Grimes</actor>
+      <actor role="Klaus (voice)">Dee Bradley Baker</actor>
+      <actor role="Snot (Voice)">Curtis Armstrong</actor>
+      <actor role="Avery Bullock (Voice)">Patrick Stewart</actor>
+      <actor role="Barry Robinson (Vocie)">Eddie Kaye Thomas</actor>
+      <actor role="Jeff Fischer (Voice)">Jeff Fischer</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1433/season/12/episode/13</url>
+    <episode-num system="xmltv_ns">11 . 12/15 .</episode-num>
+    <episode-num system="onscreen">Episode 13 of 15 season 12</episode-num>
+  </programme>
+  <programme start="20181016013000 +0200" stop="20181016020000 +0200" channel="tv6.se">
+    <title lang="sv">American Dad</title>
+    <sub-title lang="sv">American Fung</sub-title>
+    <desc lang="sv">Francine ansluter sig till Steves och hans vänners rollspel. Stan öppnar en Seaworld-kopia i huset.</desc>
+    <credits>
+      <actor role="Stan Smith (voice)">Seth MacFarlane</actor>
+      <actor role="Francine Smith (voice)">Wendy Schaal</actor>
+      <actor role="Hayley Smith (voice)">Rachael MacFarlane</actor>
+      <actor role="Steve Smith (voice)">Scott Grimes</actor>
+      <actor role="Klaus (voice)">Dee Bradley Baker</actor>
+      <actor role="Snot (Voice)">Curtis Armstrong</actor>
+      <actor role="Avery Bullock (Voice)">Patrick Stewart</actor>
+      <actor role="Barry Robinson (Vocie)">Eddie Kaye Thomas</actor>
+      <actor role="Jeff Fischer (Voice)">Jeff Fischer</actor>
+    </credits>
+    <date>2015</date>
+    <category lang="en">series</category>
+    <category lang="en">Animation</category>
+    <category lang="en">Comedy</category>
+    <url>https://www.themoviedb.org/tv/1433/season/12/episode/14</url>
+    <episode-num system="xmltv_ns">11 . 13/15 .</episode-num>
+    <episode-num system="onscreen">Episode 14 of 15 season 12</episode-num>
+  </programme>
+</tv>

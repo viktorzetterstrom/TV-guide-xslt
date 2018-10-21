@@ -1,5 +1,6 @@
 #main-container {
-    width: 60em;
+    padding-left: 30px;
+    padding-right: 30px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -24,12 +25,56 @@
     margin-bottom: 1%;
 }
 
+#footer-text {
+    text-align: center;
+}
+
+.channel img {
+    height:50px;
+    margin: 10px 120px;
+}
 .channel {
     width:300px;
-    height:800px;
+    display:block;
+    overflow: auto;
     border: 1px solid black;
     border-radius: 5px;
-    background: lightgray;
+    background: cornsilk;
+    padding: 10px;
+    margin-bottom:20px;
+}
+
+.programme {
+    font-weight: bold;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+.description {
+    font-style: italic;
+}
+
+.date {
+    text-align: center;
+}
+
+.start-time {
+    text-align: right;
+    vertical-align: top;
+}
+
+table {
+    text-align: left;
+    font-size: 11px;
+    width: 100%;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style-type: none;
 }
 
 /* Background gradient fetched from https://uigradients.com/#KokoCaramel */
@@ -38,13 +83,4 @@ body {
     background: #D1913C;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #FFD194, #D1913C);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #FFD194, #D1913C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-}
-
-ul {
-    margin: 0;
-    padding-left: 6px;
-}
-
-li {
-    list-style-type: none;
 }

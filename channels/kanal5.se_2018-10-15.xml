@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tv SYSTEM "xmltv.dtd">
+
+<tv generator-info-name="Taiga XMLTV" generator-info-url="http://xmltv.se">
+  <programme start="20181015025400 +0200" stop="20181015034300 +0200" channel="kanal5.se">
+    <title lang="sv">Hyséns</title>
+    <desc lang="sv">Glenn ska uppvakta sin älskade Camilla, och tänker anstränga sig mer än någonsin, men det blir inte riktigt som någon av dem tänkt sig. Anton är ute med mamma Helena och shoppar inredning till sin lägenhet, men åsikterna går isär.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0 . 0 .</episode-num>
+    <episode-num system="onscreen">Episode 1 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015034300 +0200" stop="20181015043200 +0200" channel="kanal5.se">
+    <title lang="sv">Södertäljepolisen</title>
+    <desc lang="sv">Poliserna är ute på en krogstängning och försöker hjälpa en berusad kvinna, som blir arg istället för tacksam. Ett gammalt fall som Södertäljepolisen redan löst blir aktuellt igen.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015043200 +0200" stop="20181015051600 +0200" channel="kanal5.se">
+    <title lang="sv">Wahlgrens värld</title>
+    <desc lang="sv">Bianca och Philippe har flyttat ihop och de har bråkat varje dag. Det är mors dag och Bianca överraskar Pernilla med ett äventyr i en höghöjdsbana. Pernilla och Sofia Wistam repeterar inför Mammagalan. Bianca lever ut sin dröm att bli snabbköpskassörska.</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">3 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 4</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015051600 +0200" stop="20181015055800 +0200" channel="kanal5.se">
+    <title lang="sv">Sofias änglar</title>
+    <desc lang="sv">I december 2017 tar Jens sitt liv. Hans fru Jill hittar honom en bit ifrån hemmet där de bor med sina tre barn Jannike, John och Jesper. Jens och Jill hade planer på att renovera huset i Vendelsö och nu måste Jill ensam ta tag i projekten, men orken är slut.</desc>
+    <credits>
+      <presenter>Mattias Särnholm</presenter>
+      <presenter>Johnnie Krigström</presenter>
+      <presenter>Sofia Wistam</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">10 . 6 .</episode-num>
+    <episode-num system="onscreen">Episode 7 season 11</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015060000 +0200" stop="20181015062500 +0200" channel="kanal5.se">
+    <title lang="sv">Extreme Couponing</title>
+    <sub-title lang="sv">Katherine &amp; Joel</sub-title>
+    <desc lang="sv">Kupongsamlaren Perry lagar alltid veganmat till sin familj och Melissa köper mat till Ronald McDonald House tillsammans med sin kupongskeptiske bror.</desc>
+    <credits>
+      <actor role="Herself">Chrystie Hebert-Corns</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=219591&amp;seasonid=473304&amp;id=4194692&amp;lid=8</url>
+    <episode-num system="xmltv_ns">1 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 2</episode-num>
+    <episode-num system="thetvdb.com">series/219591</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015062500 +0200" stop="20181015071000 +0200" channel="kanal5.se">
+    <title lang="sv">Ullared</title>
+    <sub-title lang="sv">Den årliga korvätartävlingen</sub-title>
+    <desc lang="sv">Den årliga korvätartävlingen går av stapeln med Ola-Conny som konferencier och väktaren Pudden som en av deltagarna. Systrarna Gunnel och Maritta åker till Ullared för sista gången för säsongen. Maritta solbadar i sin nya uppblåsbara campingfåtölj.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=122371&amp;seasonid=610527&amp;id=5152911&amp;lid=8</url>
+    <episode-num system="xmltv_ns">5 . 6 .</episode-num>
+    <episode-num system="onscreen">Episode 7 season 6</episode-num>
+    <episode-num system="thetvdb.com">series/122371</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015071000 +0200" stop="20181015080000 +0200" channel="kanal5.se">
+    <title lang="sv">Railroad Alaska</title>
+    <sub-title lang="sv">Mountain Hell</sub-title>
+    <desc lang="sv">Nybyggare samarbetar för att hitta en övergiven stuga som har flutit bort och frusit fast i isen, och ett gäng fraktare undviker inkräktare.</desc>
+    <date>2013</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=275408&amp;seasonid=644710&amp;id=5402926&amp;lid=8</url>
+    <episode-num system="xmltv_ns">2 . 4 .</episode-num>
+    <episode-num system="onscreen">Episode 5 season 3</episode-num>
+    <episode-num system="thetvdb.com">series/275408</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015080000 +0200" stop="20181015085600 +0200" channel="kanal5.se">
+    <title lang="sv">Tunnelbanan</title>
+    <sub-title lang="sv">Hittar något mycket oväntat</sub-title>
+    <desc lang="sv">Per och Henrik rycker ut på larm om en man som misshandlar sin flickvän. Bella och Micho omhändertar en kraftigt berusad man vid Hornstull och hittar något mycket oväntat. Rickard och Baran åker på larm om en taxibil som krockat med ett tvärbanetåg.</desc>
+    <date>2012</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=255533&amp;seasonid=697557&amp;id=6008143&amp;lid=8</url>
+    <episode-num system="xmltv_ns">4 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 5</episode-num>
+    <episode-num system="thetvdb.com">series/255533</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015085600 +0200" stop="20181015095500 +0200" channel="kanal5.se">
+    <title lang="sv">Vägens hjältar</title>
+    <desc lang="sv">En lastbil har fattat eld på E4:an och rökutvecklingen är kraftig. Pelle kommer fram till en olycka där en cyklist blivit påkörd av en bilist på ett övergångsställe. Cyklisten håller på att förlora medvetandet och bilföraren är chockad.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">2 . 10 .</episode-num>
+    <episode-num system="onscreen">Episode 11 season 3</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015095500 +0200" stop="20181015105500 +0200" channel="kanal5.se">
+    <title lang="sv">Top Chef</title>
+    <sub-title lang="sv">Where's the Beef?</sub-title>
+    <desc lang="sv">Konkurrensen är stenhård när ett antal kockar tävlar mot varandra i kulinariska utmaningar och bedöms av en panel bestående av mat- och vinexperter. En eller flera tävlande elimineras i varje avsnitt.</desc>
+    <credits>
+      <actor role="Head Judge">Tom Colicchio</actor>
+      <actor role="Judge">Emeril Lagasse</actor>
+      <actor role="Judge">Gail Simmons</actor>
+      <actor role="Judge">Graham Elliot</actor>
+      <actor role="Host">Padma Lakshmi</actor>
+      <actor role="Judge">Hugh Acheson</actor>
+      <presenter>Padma Lakshmi</presenter>
+    </credits>
+    <date>2006</date>
+    <category lang="en">series</category>
+    <category lang="en">Gameshow</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=79313&amp;seasonid=642305&amp;id=5476626&amp;lid=8</url>
+    <episode-num system="xmltv_ns">12 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 13</episode-num>
+    <episode-num system="thetvdb.com">series/79313</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>7.4 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015105500 +0200" stop="20181015115500 +0200" channel="kanal5.se">
+    <title lang="sv">Grey's Anatomy</title>
+    <sub-title lang="sv">Testing 1-2-3</sub-title>
+    <desc lang="sv">Callie blir alltmer misstänksam mot George och Izzie. Tre bergsklättrare råkar illa ut och hamnar på sjukhuset. Adele har en hemlighet och den får Addison absolut inte avslöja för Richard.</desc>
+    <credits>
+      <director>Christopher Misiano</director>
+      <actor role="Amelia Shepherd">Caterina Scorsone</actor>
+      <actor role="Lucy Fields">Rachael Taylor</actor>
+      <actor role="Alex Karev">Justin Chambers</actor>
+      <actor role="Nicole Herman">Geena Davis</actor>
+      <actor role="Adele Webber">Loretta Devine</actor>
+      <actor role="Erica Hahn">Brooke Smith</actor>
+      <actor role="Addison Montgomery">Kate Walsh</actor>
+      <actor role="Preston Burke">Isaiah Washington</actor>
+      <actor role="Catherine Avery">Debbie Allen</actor>
+      <actor role="Denny Duquette">Jeffrey Dean Morgan</actor>
+      <actor role="Derek Shepherd">Patrick Dempsey</actor>
+      <actor role="Eliza Minnick">Marika Dominczyk</actor>
+      <actor role="Teddy Altman">Kim Raver</actor>
+      <actor role="Shane Ross">Gaius Charles</actor>
+      <actor role="Miranda Bailey">Chandra Wilson</actor>
+      <actor role="Ellis Grey">Kate Burton</actor>
+      <actor role="April Kepner">Sarah Drew</actor>
+      <actor role="George O'Malley">T.R. Knight</actor>
+      <actor role="Richard Webber">James Pickens Jr.</actor>
+      <actor role="Eli Lloyd">Daniel Sunjata</actor>
+      <actor role="Isaac Cross">Joe Adler</actor>
+      <actor role="Nathan Riggs">Martin Henderson</actor>
+      <actor role="Charles Percy">Robert Baker</actor>
+      <actor role="Finn Dandridge">Chris O'Donnell</actor>
+      <actor role="Arizona Robbins">Jessica Capshaw</actor>
+      <actor role="Penelope Blake">Samantha Sloyan</actor>
+      <actor role="Carina DeLuca">Stefania Spampinato</actor>
+      <actor role="Owen Hunt">Kevin McKidd</actor>
+      <actor role="Mark Sloan">Eric Dane</actor>
+      <actor role="Izzie Stevens">Katherine Heigl</actor>
+      <actor role="Lexie Grey">Chyler Leigh</actor>
+      <actor role="Callie Torres">Sara Ramirez</actor>
+      <actor role="Cristina Yang">Sandra Oh</actor>
+      <actor role="Heather Brooks">Tina Majorino</actor>
+      <actor role="Henry Burton">Scott Foley</actor>
+      <actor role="Rebecca Pope / Ava">Elizabeth Reaser</actor>
+      <actor role="Matthew Taylor">Justin Bruening</actor>
+      <actor role="Ben Warren">Jason George</actor>
+      <actor role="Jo Wilson">Camilla Luddington</actor>
+      <actor role="Stephanie Edwards">Jerrika Hinton</actor>
+      <actor role="Leah Murphy">Tessa Ferrer</actor>
+      <actor role="Reed Adamsom">Nora Zehetner</actor>
+      <actor role="Maggie Pierce">Kelly McCreary</actor>
+      <actor role="Sadie Harris">Melissa George</actor>
+      <actor role="Thatcher Grey">Jeff Perry</actor>
+      <actor role="Jackson Avery">Jesse Williams</actor>
+      <actor role="Andrew DeLuca">Giacomo Gianniotti</actor>
+      <actor role="Meredith Grey">Ellen Pompeo</actor>
+      <actor role="Thatcher Grey">Jeff Perry</actor>
+      <actor role="Molly Thompson">Mandy Siegfried</actor>
+      <actor role="Adele Webber">Loretta Devine</actor>
+      <actor role="Ava/Jane Doe">Elizabeth Reaser</actor>
+      <actor role="Jeremy">Steven W. Bailey</actor>
+      <writer>Allan Heinberg</writer>
+    </credits>
+    <date>2005</date>
+    <category lang="en">series</category>
+    <category lang="en">Drama</category>
+    <category lang="en">Soap</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=73762&amp;seasonid=16334&amp;id=326696&amp;lid=8</url>
+    <episode-num system="xmltv_ns">2 . 23 .</episode-num>
+    <episode-num system="onscreen">Episode 24 season 3</episode-num>
+    <episode-num system="thetvdb.com">series/73762</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>6.5 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015115500 +0200" stop="20181015125600 +0200" channel="kanal5.se">
+    <title lang="sv">Sofias änglar</title>
+    <sub-title lang="sv">Avsnitt 3: Sofia vill underlätta Joakims liv</sub-title>
+    <desc lang="sv">29-årige Joakim blev förlamad från armarna och nedåt efter en motorcykelolycka. Hans fru Malin stod helt plötsligt ensam med två små barn, en renovering som avstannat och en delvis förlamad man som snart får komma hem från sjukhuset.</desc>
+    <credits>
+      <presenter>Sofia Wistam</presenter>
+      <presenter>Johnnie Krigström</presenter>
+      <presenter>Mattias Särnholm</presenter>
+    </credits>
+    <date>2011</date>
+    <category lang="en">series</category>
+    <category lang="en">Home</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=225481&amp;seasonid=406131&amp;id=3552291&amp;lid=8</url>
+    <episode-num system="xmltv_ns">0 . 2 .</episode-num>
+    <episode-num system="onscreen">Episode 3 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/225481</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015125600 +0200" stop="20181015135600 +0200" channel="kanal5.se">
+    <title lang="sv">Andarnas makt Norge</title>
+    <desc lang="sv">Andarnas makt Norge försöker hitta förklaringar till det oförklarliga, där vetenskapen inte räcker till. Programledaren Tom Strømnæss och hans klärvoajant reser land och och rike runt för att hjälpa vanliga människor som plågas av oförklarliga händelser.</desc>
+    <credits>
+      <presenter>Tom Strømnæss</presenter>
+    </credits>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">9 . 9 .</episode-num>
+    <episode-num system="onscreen">Episode 10 season 10</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015135600 +0200" stop="20181015145600 +0200" channel="kanal5.se">
+    <title lang="sv">Ullared</title>
+    <sub-title lang="sv">Den årliga korvätartävlingen</sub-title>
+    <desc lang="sv">Den årliga korvätartävlingen går av stapeln med Ola-Conny som konferencier och väktaren Pudden som en av deltagarna. Systrarna Gunnel och Maritta åker till Ullared för sista gången för säsongen. Maritta solbadar i sin nya uppblåsbara campingfåtölj.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=122371&amp;seasonid=610527&amp;id=5152911&amp;lid=8</url>
+    <episode-num system="xmltv_ns">5 . 6 .</episode-num>
+    <episode-num system="onscreen">Episode 7 season 6</episode-num>
+    <episode-num system="thetvdb.com">series/122371</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015145600 +0200" stop="20181015152700 +0200" channel="kanal5.se">
+    <title lang="sv">The Big Bang Theory</title>
+    <sub-title lang="sv">The Wildebeest Implementation</sub-title>
+    <desc lang="sv">Raj försöker bota sin sociala fobi eftersom han inte kan prata med tjejer när han är nykter. Penny använder Bernadette för att spionera på Leonard och hans flickvän.</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor role="Howard Wolowitz">Simon Helberg</actor>
+      <actor role="Penny">Kaley Cuoco</actor>
+      <actor role="Barry Kripke">John Ross Bowie</actor>
+      <actor role="Stuart Bloom">Kevin Sussman</actor>
+      <actor role="Amy Farrah Fowler">Mayim Bialik</actor>
+      <actor role="Emily Sweeney">Laura Spencer</actor>
+      <actor role="Rajesh &quot;Raj&quot; Koothrappali">Kunal Nayyar</actor>
+      <actor role="Leonard Hofstadter">Johnny Galeckii</actor>
+      <actor role="Leslie Winkle">Sara Gilbert</actor>
+      <actor role="Bernadette Rostenkowski">Melissa Rauch</actor>
+      <actor role="Debbie Wolowitz">Carol Ann Susi</actor>
+      <actor role="Sheldon Cooper">Jim Parsons</actor>
+      <writer>Eric Kaplan</writer>
+      <writer>Chuck Lorre</writer>
+      <writer>Steven Molaro</writer>
+      <writer>Bill Prady</writer>
+      <writer>Eddie Gorodetsky</writer>
+      <writer>Maria Ferrari</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=80379&amp;seasonid=261421&amp;id=4066721&amp;lid=8</url>
+    <episode-num system="xmltv_ns">3 . 21 .</episode-num>
+    <episode-num system="onscreen">Episode 22 season 4</episode-num>
+    <episode-num system="thetvdb.com">series/80379</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>6.7 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015152700 +0200" stop="20181015155500 +0200" channel="kanal5.se">
+    <title lang="sv">The Big Bang Theory</title>
+    <sub-title lang="sv">The Engagement Reaction</sub-title>
+    <desc lang="sv">Howard tar slutligen mod till sig och avslöjar för sin mamma att han är förlovad med Bernadette, men det går inte bättre än att hon hamnar på sjukhus.</desc>
+    <credits>
+      <director>Howard Murray</director>
+      <actor role="Howard Wolowitz">Simon Helberg</actor>
+      <actor role="Penny">Kaley Cuoco</actor>
+      <actor role="Barry Kripke">John Ross Bowie</actor>
+      <actor role="Stuart Bloom">Kevin Sussman</actor>
+      <actor role="Amy Farrah Fowler">Mayim Bialik</actor>
+      <actor role="Emily Sweeney">Laura Spencer</actor>
+      <actor role="Rajesh &quot;Raj&quot; Koothrappali">Kunal Nayyar</actor>
+      <actor role="Leonard Hofstadter">Johnny Galeckii</actor>
+      <actor role="Leslie Winkle">Sara Gilbert</actor>
+      <actor role="Bernadette Rostenkowski">Melissa Rauch</actor>
+      <actor role="Debbie Wolowitz">Carol Ann Susi</actor>
+      <actor role="Sheldon Cooper">Jim Parsons</actor>
+      <writer>Bill Prady</writer>
+      <writer>Eric Kaplan</writer>
+      <writer>Jim Reynolds</writer>
+      <writer>Steven Molaro</writer>
+      <writer>Chuck Lorre</writer>
+      <writer>Steve Holland</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=80379&amp;seasonid=261421&amp;id=4066741&amp;lid=8</url>
+    <episode-num system="xmltv_ns">3 . 22 .</episode-num>
+    <episode-num system="onscreen">Episode 23 season 4</episode-num>
+    <episode-num system="thetvdb.com">series/80379</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>6.8 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015155500 +0200" stop="20181015170000 +0200" channel="kanal5.se">
+    <title lang="sv">Sofias änglar</title>
+    <sub-title lang="sv">Avsnitt 4: Therese får hjälp att komma på fötter</sub-title>
+    <desc lang="sv">30-åriga Thereses man Per dog i leukemi. Sorgen har gjort att det slitna huset får inte den upprustning det behöver. Johnnie och Mattias renoverar det slitna 70-talsköket och mycket mer. Sofia ser till att Therese får hjälp av en sorgeexpert.</desc>
+    <credits>
+      <presenter>Sofia Wistam</presenter>
+      <presenter>Johnnie Krigström</presenter>
+      <presenter>Mattias Särnholm</presenter>
+    </credits>
+    <date>2011</date>
+    <category lang="en">series</category>
+    <category lang="en">Home</category>
+    <category lang="en">Nature</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=225481&amp;seasonid=406131&amp;id=3552301&amp;lid=8</url>
+    <episode-num system="xmltv_ns">0 . 3 .</episode-num>
+    <episode-num system="onscreen">Episode 4 season 1</episode-num>
+    <episode-num system="thetvdb.com">series/225481</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015170000 +0200" stop="20181015180000 +0200" channel="kanal5.se">
+    <title lang="sv">Tunnelbanan</title>
+    <sub-title lang="sv">Klottrare på bar gärning</sub-title>
+    <desc lang="sv">Ordningsvakterna Mickis och Carro tar ett gäng klottrare på bar gärning. Trygghetscentralen får larm om en äldre man som gör närmanden mot unga tjejer på T-centralen. Jeanette och Malin tar han om en ung kvinna som rymt från ett behandlingshem.</desc>
+    <date>2012</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=255533&amp;seasonid=697557&amp;id=6008152&amp;lid=8</url>
+    <episode-num system="xmltv_ns">4 . 8 .</episode-num>
+    <episode-num system="onscreen">Episode 9 season 5</episode-num>
+    <episode-num system="thetvdb.com">series/255533</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015180000 +0200" stop="20181015190000 +0200" channel="kanal5.se">
+    <title lang="sv">Ullared</title>
+    <sub-title lang="sv">Morgan bjuder på egna chips</sub-title>
+    <desc lang="sv">Morgan bjuder besökarna på smakprov av sina egna chips. Modeikonerna Mari-anne och Hélen ska bjuda på cocktailparty på campingen. Superstammisarna Leif och Gunilla är tillbaka med sina fem små hundar. Gunilla går till frissan för att överraska Leif.</desc>
+    <date>2009</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=122371&amp;seasonid=610527&amp;id=5154221&amp;lid=8</url>
+    <episode-num system="xmltv_ns">5 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 6</episode-num>
+    <episode-num system="thetvdb.com">series/122371</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015190000 +0200" stop="20181015193200 +0200" channel="kanal5.se">
+    <title lang="sv">The Big Bang Theory</title>
+    <sub-title lang="sv">The Wildebeest Implementation</sub-title>
+    <desc lang="sv">Raj försöker bota sin sociala fobi eftersom han inte kan prata med tjejer när han är nykter. Penny använder Bernadette för att spionera på Leonard och hans flickvän.</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor role="Howard Wolowitz">Simon Helberg</actor>
+      <actor role="Penny">Kaley Cuoco</actor>
+      <actor role="Barry Kripke">John Ross Bowie</actor>
+      <actor role="Stuart Bloom">Kevin Sussman</actor>
+      <actor role="Amy Farrah Fowler">Mayim Bialik</actor>
+      <actor role="Emily Sweeney">Laura Spencer</actor>
+      <actor role="Rajesh &quot;Raj&quot; Koothrappali">Kunal Nayyar</actor>
+      <actor role="Leonard Hofstadter">Johnny Galeckii</actor>
+      <actor role="Leslie Winkle">Sara Gilbert</actor>
+      <actor role="Bernadette Rostenkowski">Melissa Rauch</actor>
+      <actor role="Debbie Wolowitz">Carol Ann Susi</actor>
+      <actor role="Sheldon Cooper">Jim Parsons</actor>
+      <writer>Eric Kaplan</writer>
+      <writer>Chuck Lorre</writer>
+      <writer>Steven Molaro</writer>
+      <writer>Bill Prady</writer>
+      <writer>Eddie Gorodetsky</writer>
+      <writer>Maria Ferrari</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=80379&amp;seasonid=261421&amp;id=4066721&amp;lid=8</url>
+    <episode-num system="xmltv_ns">3 . 21 .</episode-num>
+    <episode-num system="onscreen">Episode 22 season 4</episode-num>
+    <episode-num system="thetvdb.com">series/80379</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>6.7 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015193200 +0200" stop="20181015195900 +0200" channel="kanal5.se">
+    <title lang="sv">The Big Bang Theory</title>
+    <sub-title lang="sv">The Engagement Reaction</sub-title>
+    <desc lang="sv">Howard tar slutligen mod till sig och avslöjar för sin mamma att han är förlovad med Bernadette, men det går inte bättre än att hon hamnar på sjukhus.</desc>
+    <credits>
+      <director>Howard Murray</director>
+      <actor role="Howard Wolowitz">Simon Helberg</actor>
+      <actor role="Penny">Kaley Cuoco</actor>
+      <actor role="Barry Kripke">John Ross Bowie</actor>
+      <actor role="Stuart Bloom">Kevin Sussman</actor>
+      <actor role="Amy Farrah Fowler">Mayim Bialik</actor>
+      <actor role="Emily Sweeney">Laura Spencer</actor>
+      <actor role="Rajesh &quot;Raj&quot; Koothrappali">Kunal Nayyar</actor>
+      <actor role="Leonard Hofstadter">Johnny Galeckii</actor>
+      <actor role="Leslie Winkle">Sara Gilbert</actor>
+      <actor role="Bernadette Rostenkowski">Melissa Rauch</actor>
+      <actor role="Debbie Wolowitz">Carol Ann Susi</actor>
+      <actor role="Sheldon Cooper">Jim Parsons</actor>
+      <writer>Bill Prady</writer>
+      <writer>Eric Kaplan</writer>
+      <writer>Jim Reynolds</writer>
+      <writer>Steven Molaro</writer>
+      <writer>Chuck Lorre</writer>
+      <writer>Steve Holland</writer>
+    </credits>
+    <date>2007</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <url>http://thetvdb.com/?tab=episode&amp;seriesid=80379&amp;seasonid=261421&amp;id=4066741&amp;lid=8</url>
+    <episode-num system="xmltv_ns">3 . 22 .</episode-num>
+    <episode-num system="onscreen">Episode 23 season 4</episode-num>
+    <episode-num system="thetvdb.com">series/80379</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+    <star-rating>
+      <value>6.8 / 9</value>
+    </star-rating>
+  </programme>
+  <programme start="20181015195900 +0200" stop="20181015210000 +0200" channel="kanal5.se">
+    <title lang="sv">Sofias änglar</title>
+    <desc lang="sv">Rebecka och David bor med döttrarna Felicia och Vera i Klippan. Vera har cystisk fibros och får en mängd behandlingar och är delvis isolerad. Rebecka och David lever med ständig oro, och den blir inte mindre av att huset kan vara mögelangripet.</desc>
+    <credits>
+      <presenter>Mattias Särnholm</presenter>
+      <presenter>Johnnie Krigström</presenter>
+      <presenter>Sofia Wistam</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Lifestyle</category>
+    <episode-num system="xmltv_ns">10 . 7 .</episode-num>
+    <episode-num system="onscreen">Episode 8 season 11</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015210000 +0200" stop="20181015215800 +0200" channel="kanal5.se">
+    <title lang="sv">Hyséns</title>
+    <desc lang="sv">Glenn och Camilla ska åka på semester till Kroatien, men Glenn får problem med passet på flygplatsen. Anton ska på blindträff men mamma har svårt att hålla sig borta. Glenns barndomsdröm, att hoppa fallskärm, ska äntligen förverkligas. Eller ska den?</desc>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Reality</category>
+    <episode-num system="xmltv_ns">0 . 1 .</episode-num>
+    <episode-num system="onscreen">Episode 2 season 1</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015215800 +0200" stop="20181015230000 +0200" channel="kanal5.se">
+    <title lang="sv">Breaking News med Filip &amp; Fredrik</title>
+    <desc lang="sv">Filip och Fredriks unika blandning av nyheter, humor och allvar. Inget är för stort eller litet för att analyseras på en flanellograf eller utredas i en nyhetspanel. Här får vi de bästa gästerna, de mest oväntade analyserna och de galnaste nyheterna.</desc>
+    <credits>
+      <presenter>Filip Hammar</presenter>
+      <presenter>Fredrik Wikingsson</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">8 . 32 .</episode-num>
+    <episode-num system="onscreen">Episode 33 season 9</episode-num>
+  </programme>
+  <programme start="20181015230000 +0200" stop="20181015232800 +0200" channel="kanal5.se">
+    <title lang="sv">The Big Bang Theory</title>
+    <desc lang="sv">Raj försöker bota sin sociala fobi eftersom han inte kan prata med tjejer när han är nykter. Penny använder Bernadette för att spionera på Leonard och hans flickvän.</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Johnny Galecki</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">3 . 21 .</episode-num>
+    <episode-num system="onscreen">Episode 22 season 4</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015232800 +0200" stop="20181015235500 +0200" channel="kanal5.se">
+    <title lang="sv">The Big Bang Theory</title>
+    <desc lang="sv">Howard tar slutligen mod till sig och avslöjar för sin mamma att han är förlovad med Bernadette, men det går inte bättre än att hon hamnar på sjukhus.</desc>
+    <credits>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Kunal Nayyar</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Johnny Galecki</actor>
+    </credits>
+    <date>2010</date>
+    <category lang="en">series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="xmltv_ns">3 . 22 .</episode-num>
+    <episode-num system="onscreen">Episode 23 season 4</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181015235500 +0200" stop="20181016005000 +0200" channel="kanal5.se">
+    <title lang="sv">CSI Miami</title>
+    <desc lang="sv">Ett mord avslöjar en skandal där en stadsfullmäktigeledamot är inblandad och då upptäcker Horatio att en sliskig försvarsadvokat utpressar sina klienter för att tvinga dem att hjälpa hans andra klienter.</desc>
+    <credits>
+      <actor>David Caruso</actor>
+      <actor>Emily Procter</actor>
+      <actor>Adam Rodriguez</actor>
+      <actor>Eva La Rue</actor>
+      <actor>Jonathan Togo</actor>
+      <actor>Rex Linn</actor>
+      <actor>Richard Burgi</actor>
+    </credits>
+    <date>2011</date>
+    <category lang="en">series</category>
+    <category lang="en">Crime</category>
+    <episode-num system="xmltv_ns">9 . 17 .</episode-num>
+    <episode-num system="onscreen">Episode 18 season 10</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+  <programme start="20181016005000 +0200" stop="20181016014400 +0200" channel="kanal5.se">
+    <title lang="sv">Breaking News med Filip &amp; Fredrik</title>
+    <desc lang="sv">Filip och Fredriks unika blandning av nyheter, humor och allvar. Inget är för stort eller litet för att analyseras på en flanellograf eller utredas i en nyhetspanel. Här får vi de bästa gästerna, de mest oväntade analyserna och de galnaste nyheterna.</desc>
+    <credits>
+      <presenter>Filip Hammar</presenter>
+      <presenter>Fredrik Wikingsson</presenter>
+    </credits>
+    <date>2018</date>
+    <category lang="en">series</category>
+    <category lang="en">Talkshow</category>
+    <episode-num system="xmltv_ns">8 . 32 .</episode-num>
+    <episode-num system="onscreen">Episode 33 season 9</episode-num>
+  </programme>
+  <programme start="20181016014400 +0200" stop="20181016024200 +0200" channel="kanal5.se">
+    <title lang="sv">Tunnelbanan</title>
+    <desc lang="sv">Ordningsvakterna Mickis och Carro tar ett gäng klottrare på bar gärning. Trygghetscentralen får larm om en äldre man som gör närmanden mot unga tjejer på T-centralen. Jeanette och Malin tar han om en ung kvinna som rymt från ett behandlingshem.</desc>
+    <date>2017</date>
+    <category lang="en">series</category>
+    <category lang="en">Documentary</category>
+    <episode-num system="xmltv_ns">4 . 8 .</episode-num>
+    <episode-num system="onscreen">Episode 9 season 5</episode-num>
+    <video>
+      <aspect>16:9</aspect>
+    </video>
+  </programme>
+</tv>

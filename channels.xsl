@@ -19,10 +19,16 @@
     <!-- Channel and logo paths -->
     <xsl:variable name="svt1">channels/svt1.svt.se_2018-10-15.xml</xsl:variable>
     <xsl:variable name="svt2">channels/svt2.svt.se_2018-10-15.xml</xsl:variable>
-    <xsl:variable name="kunskapskanalen">channels/kunskapskanalen.svt.se_2018-10-15.xml</xsl:variable>
+    <xsl:variable name="tv3">channels/tv3.se_2018-10-15.xml</xsl:variable>
+    <xsl:variable name="tv4">channels/tv4.se_2018-10-15.xml</xsl:variable>
+    <xsl:variable name="kanal5">channels/kanal5.se_2018-10-15.xml</xsl:variable>
+    <xsl:variable name="tv6">channels/tv6.se_2018-10-15.xml</xsl:variable>
     <xsl:variable name="svt1-logo">logos/svt1.svt.se.png</xsl:variable>
     <xsl:variable name="svt2-logo">logos/svt2.svt.se.png</xsl:variable>
-    <xsl:variable name="kunskapskanalen-logo">logos/kunskapskanalen.svt.se.png</xsl:variable>
+    <xsl:variable name="tv3-logo">logos/tv3.se.png</xsl:variable>
+    <xsl:variable name="tv4-logo">logos/tv4.se.png</xsl:variable>
+    <xsl:variable name="kanal5-logo">logos/kanal5.se.png</xsl:variable>
+    <xsl:variable name="tv6-logo">logos/tv6.se.png</xsl:variable>
 
     <!-- TV-guide name and creator variable -->
     <xsl:variable name="tv-guide-title">The vize1500 TV-guide</xsl:variable>
@@ -43,23 +49,44 @@
             <!-- Logo and channel names are added -->
             <!-- SVT 1 -->
             <channel>
-                <channel-name>svt1</channel-name>
+                <channel-name>SVT1</channel-name>
                 <logo-path><xsl:value-of select="$svt1-logo" /></logo-path>
                 <xsl:apply-templates select="document($svt1)/tv" />
             </channel>
 
             <!-- SVT2 -->
             <channel>
-                <channel-name>svt2</channel-name>
-                <logo-path><xsl:value-of select="$svt1-logo" /></logo-path>
+                <channel-name>SVT2</channel-name>
+                <logo-path><xsl:value-of select="$svt2-logo" /></logo-path>
                 <xsl:apply-templates select="document($svt2)/tv" />
             </channel>
 
-            <!-- Kunskapskanalen -->
+            <!-- TV3 -->
             <channel>
-                <channel-name>kunskapskanalen</channel-name>
-                <logo-path><xsl:value-of select="$svt1-logo" /></logo-path>
-                <xsl:apply-templates select="document($kunskapskanalen)/tv" />
+                <channel-name>TV3</channel-name>
+                <logo-path><xsl:value-of select="$tv3-logo" /></logo-path>
+                <xsl:apply-templates select="document($tv3)/tv" />
+            </channel>
+
+            <!-- TV4 -->
+            <channel>
+                <channel-name>TV4</channel-name>
+                <logo-path><xsl:value-of select="$tv4-logo" /></logo-path>
+                <xsl:apply-templates select="document($tv4)/tv" />
+            </channel>
+
+            <!-- Kanal 5 -->
+            <channel>
+                <channel-name>Kanal 5</channel-name>
+                <logo-path><xsl:value-of select="$kanal5-logo" /></logo-path>
+                <xsl:apply-templates select="document($kanal5)/tv" />
+            </channel>
+
+            <!-- TV6 -->
+            <channel>
+                <channel-name>TV6</channel-name>
+                <logo-path><xsl:value-of select="$tv6-logo" /></logo-path>
+                <xsl:apply-templates select="document($tv6)/tv" />
             </channel>
 
 
@@ -71,6 +98,9 @@
         <!-- Copy all programmes -->
         <xsl:for-each select="//programme">
             <programme>
+                <xsl:attribute name="start">
+                    <xsl:value-of select="./@start" />
+                </xsl:attribute>
                 <xsl:copy-of select="title" />
                 <xsl:copy-of select="desc" />
                 <xsl:copy-of select="date" />
