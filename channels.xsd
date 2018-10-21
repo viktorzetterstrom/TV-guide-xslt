@@ -16,33 +16,40 @@ transformation channels.xsd.
   </xsd:annotation>
 
   <!-- TV-guide consists of one tv-guide element-->
-  <xsd:element name="tv-guide" type="tv-guide-type"/>
+  <xsd:element name="tv-guide" type="tv-guide-type" />
 
   <!-- tv-guide-type contains title, name of creator, and channels -->
   <xsd:complexType name="tv-guide-type">
     <xsd:sequence>
-      <xsd:element name="tv-guide-title" type="xsd:string"/>
-      <xsd:element name="tv-guide-creator" type="xsd:string"/>
-      <xsd:element name="channel" type="channel-type" maxOccurs="unbounded"/>
+      <xsd:element name="tv-guide-title" type="xsd:string" />
+      <xsd:element name="tv-guide-creator" type="xsd:string" />
+      <xsd:element name="channel" type="channel-type" maxOccurs="unbounded" />
     </xsd:sequence>
   </xsd:complexType>
 
   <!-- channel-type contains name, path to logo and programmes -->
   <xsd:complexType name="channel-type">
     <xsd:sequence>
-      <xsd:element name="channel-name" type="xsd:string"/>
-      <xsd:element name="logo-path" type="xsd:string"/>
-      <xsd:element name="programme" type="programme-type" maxOccurs="unbounded"/>
+      <xsd:element name="channel-name" type="xsd:string" />
+      <xsd:element name="logo-path" type="xsd:string" />
+      <xsd:element name="programme" type="programme-type" maxOccurs="unbounded" />
     </xsd:sequence>
   </xsd:complexType>
 
   <!-- programme-type contains -->
   <xsd:complexType name="programme-type">
-    <!-- start attribute -->
-    <!-- start attribute -->
-    <!-- start attribute -->
-    <!-- start attribute -->
+    <xsd:sequence>
+      <!-- start attribute -->
+      <!-- title element -->
+      <xsd:element name="title" type="xsd:string" />
+      <!-- desc element -->
+      <xsd:element name="desc" type="xsd:string" />
+      <!-- date element -->
+      <xsd:element name="date" type="xsd:string" />
+      <!-- category element -->
+      <xsd:element name="category" type="xsd:string" maxOccurs="unbounded" />
 
+    </xsd:sequence>
   </xsd:complexType>
 
 
