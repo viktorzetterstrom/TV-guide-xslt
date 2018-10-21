@@ -21,12 +21,9 @@ xquery version "3.0" encoding "UTF-8";
 
         {(: Date, checks first programme for start time and uses substring to extract date. :)}
         <h2 class="date">
-            {}
-            declare function local:func() {
-
-            }
-            substring(($channel/programme/@start)[1], 1, 4)}-{substring(($channel/programme/@start)[1], 5, 2)}-{substring(($channel/programme/@start)[1], 7, 2)
-            {}
+            {substring( (doc("channels.xml")//@start)[1], 1, 4)} -
+            {substring( (doc("channels.xml")//@start)[1], 5, 2)} -
+            {substring( (doc("channels.xml")//@start)[1], 7, 2)}
         </h2>
 
 
