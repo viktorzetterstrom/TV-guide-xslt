@@ -9,37 +9,41 @@ transformation channels.xsd.
 -->
 
 <xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-    <xsd:annotation>
-        <xsd:documentation>
-            Represents a TV-guide, each channel a list of programmes as well as a name and logo.
-        </xsd:documentation>
-    </xsd:annotation>
+  <xsd:annotation>
+    <xsd:documentation>
+      Represents a TV-guide, each channel a list of programmes as well as a name and logo.
+    </xsd:documentation>
+  </xsd:annotation>
 
-    <!-- TV-guide consists of one tv-guide element-->
-    <xsd:element name="tv-guide" type="tv-guide-type" />
+  <!-- TV-guide consists of one tv-guide element-->
+  <xsd:element name="tv-guide" type="tv-guide-type"/>
 
-    <!-- tv-guide-type contains title, name of creator, and channels -->
-    <xsd:complexType name="tv-guide-type">
-        <xsd:sequence>
-            <xsd:element name="tv-guide-title" type="xsd:string" />
-            <xsd:element name="tv-guide-creator" type="xsd:string" />
-            <xsd:element name="channel" type="channel-type" maxOccurs="unbounded" />
-        </xsd:sequence>
-    </xsd:complexType>
+  <!-- tv-guide-type contains title, name of creator, and channels -->
+  <xsd:complexType name="tv-guide-type">
+    <xsd:sequence>
+      <xsd:element name="tv-guide-title" type="xsd:string"/>
+      <xsd:element name="tv-guide-creator" type="xsd:string"/>
+      <xsd:element name="channel" type="channel-type" maxOccurs="unbounded"/>
+    </xsd:sequence>
+  </xsd:complexType>
 
-    <!-- channel-type contains name, path to logo and programmes -->
-    <xsd:complexType name="channel-type">
-        <xsd:sequence>
-            <xsd:element name="channel-name" type="xsd:string" />
-            <xsd:element name="logo-path" type="xsd:string" />
-            <xsd:element name="programme" type="programme-type" maxOccurs="unbounded" />
-        </xsd:sequence>
-    </xsd:complexType>
+  <!-- channel-type contains name, path to logo and programmes -->
+  <xsd:complexType name="channel-type">
+    <xsd:sequence>
+      <xsd:element name="channel-name" type="xsd:string"/>
+      <xsd:element name="logo-path" type="xsd:string"/>
+      <xsd:element name="programme" type="programme-type" maxOccurs="unbounded"/>
+    </xsd:sequence>
+  </xsd:complexType>
 
-    <!-- programme-type contains -->
-    <xsd:complexType name="programme-type">
+  <!-- programme-type contains -->
+  <xsd:complexType name="programme-type">
+    <!-- start attribute -->
+    <!-- start attribute -->
+    <!-- start attribute -->
+    <!-- start attribute -->
 
-    </xsd:complexType>
+  </xsd:complexType>
 
 
 </xsd:schema>

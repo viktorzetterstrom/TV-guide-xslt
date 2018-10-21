@@ -1,86 +1,88 @@
 #main-container {
-    padding-left: 30px;
-    padding-right: 30px;
-    margin-left: auto;
-    margin-right: auto;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #header {
-    text-align:center
+  text-align: center
 }
 
 #pdf-button {
-    height: 40px;
-    width: 200px;
-    display: block;
-    margin: auto;
-    border-radius: 5px;
+  height: 40px;
+  width: 200px;
+  display: block;
+  margin: auto;
+  border-radius: 5px;
 }
 
-#channels{
-    display:flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-    margin-top: 1%;
-    margin-bottom: 1%;
+#channels {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  margin-top: 1%;
+  margin-bottom: 1%;
 }
 
 #footer-text {
-    text-align: center;
+  text-align: center;
 }
 
 .channel img {
-    height:50px;
-    margin: 10px 120px;
+  height: 50px;
+  margin: 10px 120px;
 }
+
 .channel {
-    width:300px;
-    display:block;
-    overflow: auto;
-    border: 1px solid black;
-    border-radius: 5px;
-    background: cornsilk;
-    padding: 10px;
-    margin-bottom:20px;
+  width: 300px;
+  display: block;
+  overflow: auto;
+  border: 1px solid black;
+  border-radius: 5px;
+  background: cornsilk;
+  padding: 10px;
+  margin-bottom: 20px;
 }
 
 .programme {
-    font-weight: bold;
-    padding-top: 2px;
-    padding-bottom: 2px;
+  font-weight: bold;
+  padding-top: 2px;
+  padding-bottom: 2px;
 }
+
 .description {
-    font-style: italic;
+  font-style: italic;
 }
 
 .date {
-    text-align: center;
+  text-align: center;
 }
 
 .start-time {
-    text-align: right;
-    vertical-align: top;
+  text-align: right;
+  vertical-align: top;
 }
 
 table {
-    text-align: left;
-    font-size: 11px;
-    width: 100%;
+  text-align: left;
+  font-size: 11px;
+  width: 100%;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 li {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 /* Background gradient fetched from https://uigradients.com/#KokoCaramel */
 body {
-    font-family: arial;
-    background: #D1913C;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #FFD194, #D1913C);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #FFD194, #D1913C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  font-family: arial;
+  background: #D1913C; /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FFD194, #D1913C); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FFD194, #D1913C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
