@@ -1,4 +1,8 @@
 xquery version "3.0" encoding "UTF-8";
+declare option output:encoding "UTF-8";
+declare option output:method "xhtml";
+declare option output:doctype-public "-//W3C//DTD XHTML 1.0 Strict//EN";
+declare option output:doctype-system "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd";
 
 
 <html>
@@ -71,15 +75,6 @@ xquery version "3.0" encoding "UTF-8";
             }
           </table>
         </div>
-    }
-  </div>
-
-  <div class="movies">
-    {
-      for $movie in doc("channels")//category[text()='movie']/parent::programme return
-      <div>
-        {$movie/title}
-      </div>
     }
   </div>
 

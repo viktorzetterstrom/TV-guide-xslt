@@ -36,21 +36,50 @@ transformation channels.xsd.
     </xsd:sequence>
   </xsd:complexType>
 
-  <!-- programme-type contains -->
+  <!-- programme-type -->
   <xsd:complexType name="programme-type">
     <xsd:sequence>
-      <!-- start attribute -->
       <!-- title element -->
-      <xsd:element name="title" type="xsd:string" />
-      <!-- desc element -->
-      <xsd:element name="desc" type="xsd:string" />
-      <!-- date element -->
-      <xsd:element name="date" type="xsd:string" />
-      <!-- category element -->
-      <xsd:element name="category" type="xsd:string" maxOccurs="unbounded" />
+      <xsd:element name="title" type="title-type" />
 
+      <!-- desc element, not required -->
+      <xsd:element name="desc" type="desc-type" minOccurs="0" />
+
+      <!-- date element, not required -->
+      <xsd:element name="date" type="xsd:string" minOccurs="0" />
+
+      <!-- category element, not required -->
+      <xsd:element name="category" type="category-type" minOccurs="0" maxOccurs="unbounded">
+
+      </xsd:element>
     </xsd:sequence>
+    <xsd:attribute name="start" type="xsd:string" />
   </xsd:complexType>
 
+  <!-- Title type, xsd:string extended with lang attribute -->
+  <xsd:complexType name="title-type">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="lang" type="xsd:language" />
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
 
+  <!-- Description type, xsd:string extended with lang attribute -->
+  <xsd:complexType name="desc-type">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="lang" type="xsd:language" />
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
+
+  <!-- Category type, xsd:string extended with lang attribute -->
+  <xsd:complexType name="category-type">
+    <xsd:simpleContent>
+      <xsd:extension base="xsd:string">
+        <xsd:attribute name="lang" type="xsd:language" />
+      </xsd:extension>
+    </xsd:simpleContent>
+  </xsd:complexType>
 </xsd:schema>
