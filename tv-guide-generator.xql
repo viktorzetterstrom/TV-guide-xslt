@@ -1,9 +1,15 @@
 xquery version "3.0" encoding "UTF-8";
+declare default element namespace "http://www.w3.org/1999/xhtml";
+declare namespace v="https://vize1500";
 declare option output:encoding "UTF-8";
 declare option output:method "xhtml";
 declare option output:doctype-public "-//W3C//DTD XHTML 1.0 Strict//EN";
 declare option output:doctype-system "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd";
+declare option output:omit-xml-declaration "no";
 
+
+(: This file generates a xhtml-page based on channels.xml, see README.md for info on how
+ to generate the page :)
 
 <html>
 
@@ -11,7 +17,6 @@ declare option output:doctype-system "http://www.w3.org/TR/xhtml1/DTD/xhtml1-str
 <head>
    <title>TV-guide</title>
    <link rel="stylesheet" type="text/css" href="style.css" />
-   <meta charset="utf-8" />
 </head>
 
 
@@ -22,7 +27,7 @@ declare option output:doctype-system "http://www.w3.org/TR/xhtml1/DTD/xhtml1-str
 
   <!-- Page header -->
   <div id="header">
-    <h1>{doc("channels.xml")//tv-guide-title/text()}</h1>
+    <h1>{doc("channels.xml")//v:tv-guide-title/text()}</h1>
 
     {(: Date, checks first programme for start time and uses substring to extract date. :)}
     <h2 class="date">
@@ -42,29 +47,29 @@ declare option output:doctype-system "http://www.w3.org/TR/xhtml1/DTD/xhtml1-str
   <div id="channels">
     {
       (: For each channel :)
-      for $channel in doc("channels.xml")//channel return
+      for $channel in doc("channels.xml")//v:channel return
         <div class="channel">
 
           {(: Insert channel logo :)}
-          <img alt="Channel logo" src="{$channel/logo-path}"/>
+          <img alt="Channel logo" src="{$channel/v:logo-path}"/>
 
           {(: Create table with date, and programmes on right and times on left. :)}
           <table>
             {
               (: Column with programme name, category and year, and start time :)
-              for $programme in $channel//programme return
+              for $programme in $channel//v:programme return
                 <tr>
                   <td>
                     <div class="programme">
                     { (: If a movie, add Movie(date) :)
-                    if (($programme/category)/text() = 'movie') then
-                      <span>Movie ({$programme/date/text()}) - </span>
+                    if (($programme/v:category)/text() = 'movie') then
+                      <span>Movie ({$programme/v:date/text()}) - </span>
                     else ()}
-                    {$programme/title/text()}
+                    {$programme/v:title/text()}
                     </div>
 
                     <div class="description">
-                      {$programme/desc/text()}
+                      {$programme/v:desc/text()}
                     </div>
                   </td>
                   <td class="start-time programme">
@@ -78,7 +83,7 @@ declare option output:doctype-system "http://www.w3.org/TR/xhtml1/DTD/xhtml1-str
     }
   </div>
 
-  <p id="footer-text">Created by {doc("channels.xml")//tv-guide-creator/text()} for the course DT074G at Mittuniversitetet.</p>
+  <p id="footer-text">Created by {doc("channels.xml")//v:tv-guide-creator/text()} for the course DT074G at Mittuniversitetet.</p>
 </div>
 
 </body>
