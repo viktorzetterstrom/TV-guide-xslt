@@ -9,14 +9,6 @@
   text-align: center
 }
 
-#pdf-button {
-  height: 40px;
-  width: 200px;
-  display: block;
-  margin: auto;
-  border-radius: 5px;
-}
-
 #channels {
   display: flex;
   flex-flow: row wrap;
