@@ -36,11 +36,6 @@ declare option output:omit-xml-declaration "no";
       {substring( (doc("channels.xml")//@start)[1], 7, 2)}
     </h2>
 
-
-    <!-- Button for xsl-fo to pdf -->
-    <button id="pdf-button">Click me to generate .pdf</button>
-
-
   </div>
 
   <!-- Channels -->

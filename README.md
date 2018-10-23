@@ -5,7 +5,7 @@ Welcome to the vize1500 TV-guide, created as a final project in DT074G - XML. Th
 
 The following programs are required to generate the project:
 ```
-xsltproc, basex, xmllint
+xsltproc, basex, xmllint, fop
 ```
 
 First generate "channels.xml" by using the command:
@@ -13,13 +13,19 @@ First generate "channels.xml" by using the command:
 xsltproc -o channels.xml channels.xsl channels/svt1.svt.se_2018-10-15.xml 
 ```
 
-Then generate "tv-guide.html" using:
-```
-basex -o tv-guide.html tv-guide-generator.xql
-```
-
 Validate "channel.xml" with:
 ```
 xmllint --noout --schema channels.xsd channels.xml
 ```
 
+
+Then generate "tv-guide.html" using:
+```
+basex -o tv-guide.html tv-guide-generator.xql
+```
+
+Generate pdf-file with xls-fo using the following commands:
+```
+xsltproc -o channels.fo channels-fo.xsl channels.xml
+fop channels.fo tv-guide.pdf
+```
